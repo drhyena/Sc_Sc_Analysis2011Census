@@ -1,0 +1,1324 @@
+table_name,state_code,district_code,area_name,total_rural_urban,age_group,metric,value,source_file,dataset_code
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Population_Persons,15363,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Population_Persons,2876,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Population_Persons,6269,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Population_Persons,4072,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Population_Persons,885,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Population_Persons,14,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Population_Persons,10341,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Population_Persons,7617,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Population_Persons,1469,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Population_Persons,2974,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Population_Persons,2070,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Population_Persons,463,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Population_Persons,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Population_Persons,5044,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Population_Persons,7746,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Population_Persons,1407,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Population_Persons,3295,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Population_Persons,2002,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Population_Persons,422,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Population_Persons,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Population_Persons,5297,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Population_Persons,123,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Population_Persons,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Population_Persons,62,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Population_Persons,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Population_Persons,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Population_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Population_Persons,92,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Population_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Population_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Population_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Population_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Population_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Population_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Population_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Population_Persons,121,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Population_Persons,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Population_Persons,60,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Population_Persons,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Population_Persons,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Population_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Population_Persons,90,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Population_Persons,15240,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Population_Persons,2863,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Population_Persons,6207,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Population_Persons,4042,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Population_Persons,876,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Population_Persons,14,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Population_Persons,10249,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Population_Persons,7615,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Population_Persons,1469,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Population_Persons,2972,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Population_Persons,2070,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Population_Persons,463,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Population_Persons,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Population_Persons,5042,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Population_Persons,7625,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Population_Persons,1394,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Population_Persons,3235,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Population_Persons,1972,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Population_Persons,413,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Population_Persons,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Population_Persons,5207,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Population_Males,7771,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Population_Males,1474,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Population_Males,3219,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Population_Males,2044,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Population_Males,380,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Population_Males,8,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Population_Males,5263,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Population_Males,3843,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Population_Males,756,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Population_Males,1504,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Population_Males,1046,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Population_Males,203,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Population_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Population_Males,2550,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Population_Males,3928,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Population_Males,718,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Population_Males,1715,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Population_Males,998,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Population_Males,177,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Population_Males,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Population_Males,2713,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Population_Males,69,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Population_Males,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Population_Males,37,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Population_Males,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Population_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Population_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Population_Males,50,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Population_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Population_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Population_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Population_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Population_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Population_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Population_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Population_Males,68,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Population_Males,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Population_Males,36,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Population_Males,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Population_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Population_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Population_Males,49,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Population_Males,7702,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Population_Males,1464,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Population_Males,3182,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Population_Males,2031,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Population_Males,377,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Population_Males,8,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Population_Males,5213,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Population_Males,3842,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Population_Males,756,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Population_Males,1503,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Population_Males,1046,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Population_Males,203,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Population_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Population_Males,2549,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Population_Males,3860,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Population_Males,708,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Population_Males,1679,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Population_Males,985,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Population_Males,174,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Population_Males,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Population_Males,2664,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Population_Females,7592,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Population_Females,1402,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Population_Females,3050,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Population_Females,2028,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Population_Females,505,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Population_Females,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Population_Females,5078,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Population_Females,3774,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Population_Females,713,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Population_Females,1470,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Population_Females,1024,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Population_Females,260,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Population_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Population_Females,2494,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Population_Females,3818,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Population_Females,689,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Population_Females,1580,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Population_Females,1004,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Population_Females,245,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Population_Females,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Population_Females,2584,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Population_Females,54,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Population_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Population_Females,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Population_Females,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Population_Females,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Population_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Population_Females,42,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Population_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Population_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Population_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Population_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Population_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Population_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Population_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Population_Females,53,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Population_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Population_Females,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Population_Females,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Population_Females,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Population_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Population_Females,41,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Population_Females,7538,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Population_Females,1399,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Population_Females,3025,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Population_Females,2011,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Population_Females,499,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Population_Females,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Population_Females,5036,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Population_Females,3773,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Population_Females,713,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Population_Females,1469,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Population_Females,1024,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Population_Females,260,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Population_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Population_Females,2493,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Population_Females,3765,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Population_Females,686,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Population_Females,1556,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Population_Females,987,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Population_Females,239,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Population_Females,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Population_Females,2543,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Main workers_Persons,5966,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Main workers_Persons,56,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Main workers_Persons,3129,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Main workers_Persons,2563,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Main workers_Persons,212,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Main workers_Persons,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Main workers_Persons,5692,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Main workers_Persons,2886,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Main workers_Persons,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Main workers_Persons,1487,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Main workers_Persons,1283,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Main workers_Persons,89,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Main workers_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Main workers_Persons,2770,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Main workers_Persons,3080,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Main workers_Persons,31,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Main workers_Persons,1642,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Main workers_Persons,1280,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Main workers_Persons,123,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Main workers_Persons,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Main workers_Persons,2922,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Main workers_Persons,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Main workers_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Main workers_Persons,14,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Main workers_Persons,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Main workers_Persons,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Main workers_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Main workers_Persons,27,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Main workers_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Main workers_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Main workers_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Main workers_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Main workers_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Main workers_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Main workers_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Main workers_Persons,29,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Main workers_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Main workers_Persons,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Main workers_Persons,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Main workers_Persons,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Main workers_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Main workers_Persons,26,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Main workers_Persons,5936,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Main workers_Persons,56,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Main workers_Persons,3115,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Main workers_Persons,2550,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Main workers_Persons,209,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Main workers_Persons,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Main workers_Persons,5665,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Main workers_Persons,2885,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Main workers_Persons,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Main workers_Persons,1486,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Main workers_Persons,1283,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Main workers_Persons,89,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Main workers_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Main workers_Persons,2769,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Main workers_Persons,3051,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Main workers_Persons,31,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Main workers_Persons,1629,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Main workers_Persons,1267,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Main workers_Persons,120,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Main workers_Persons,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Main workers_Persons,2896,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Main workers_Males,4128,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Main workers_Males,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Main workers_Males,2162,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Main workers_Males,1787,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Main workers_Males,150,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Main workers_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Main workers_Males,3949,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Main workers_Males,2000,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Main workers_Males,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Main workers_Males,992,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Main workers_Males,929,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Main workers_Males,67,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Main workers_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Main workers_Males,1921,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Main workers_Males,2128,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Main workers_Males,14,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Main workers_Males,1170,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Main workers_Males,858,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Main workers_Males,83,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Main workers_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Main workers_Males,2028,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Main workers_Males,26,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Main workers_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Main workers_Males,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Main workers_Males,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Main workers_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Main workers_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Main workers_Males,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Main workers_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Main workers_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Main workers_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Main workers_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Main workers_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Main workers_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Main workers_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Main workers_Males,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Main workers_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Main workers_Males,12,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Main workers_Males,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Main workers_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Main workers_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Main workers_Males,23,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Main workers_Males,4102,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Main workers_Males,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Main workers_Males,2149,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Main workers_Males,1776,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Main workers_Males,148,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Main workers_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Main workers_Males,3925,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Main workers_Males,1999,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Main workers_Males,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Main workers_Males,991,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Main workers_Males,929,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Main workers_Males,67,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Main workers_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Main workers_Males,1920,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Main workers_Males,2103,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Main workers_Males,14,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Main workers_Males,1158,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Main workers_Males,847,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Main workers_Males,81,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Main workers_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Main workers_Males,2005,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Main workers_Females,1838,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Main workers_Females,31,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Main workers_Females,967,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Main workers_Females,776,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Main workers_Females,62,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Main workers_Females,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Main workers_Females,1743,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Main workers_Females,886,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Main workers_Females,14,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Main workers_Females,495,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Main workers_Females,354,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Main workers_Females,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Main workers_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Main workers_Females,849,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Main workers_Females,952,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Main workers_Females,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Main workers_Females,472,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Main workers_Females,422,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Main workers_Females,40,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Main workers_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Main workers_Females,894,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Main workers_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Main workers_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Main workers_Females,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Main workers_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Main workers_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Main workers_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Main workers_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Main workers_Females,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Main workers_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Main workers_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Main workers_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Main workers_Females,1834,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Main workers_Females,31,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Main workers_Females,966,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Main workers_Females,774,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Main workers_Females,61,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Main workers_Females,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Main workers_Females,1740,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Main workers_Females,886,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Main workers_Females,14,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Main workers_Females,495,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Main workers_Females,354,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Main workers_Females,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Main workers_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Main workers_Females,849,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Main workers_Females,948,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Main workers_Females,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Main workers_Females,471,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Main workers_Females,420,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Main workers_Females,39,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Main workers_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Main workers_Females,891,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Marginal workers_Worked for less than_3 months_Total_Persons,123,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,55,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,54,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Marginal workers_Worked for less than_3 months_Total_Persons,12,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,109,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Persons,62,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,20,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Persons,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,50,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Persons,61,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,35,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,59,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Marginal workers_Worked for less than_3 months_Total_Persons,122,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,54,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,54,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Marginal workers_Worked for less than_3 months_Total_Persons,12,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,108,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Persons,62,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,20,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Persons,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,50,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Persons,60,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,34,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,58,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Marginal workers_Worked for less than_3 months_Total_Males,58,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Males,27,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Males,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Marginal workers_Worked for less than_3 months_Total_Males,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Males,52,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Males,27,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Males,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Males,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Males,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Males,31,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Males,18,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Males,12,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Males,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Marginal workers_Worked for less than_3 months_Total_Males,57,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Males,26,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Males,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Marginal workers_Worked for less than_3 months_Total_Males,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Males,51,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Males,27,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Males,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Males,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Males,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Males,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Males,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Males,12,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Males,29,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Marginal workers_Worked for less than_3 months_Total_Females,65,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Females,28,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Females,29,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Marginal workers_Worked for less than_3 months_Total_Females,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Females,57,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Females,35,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Females,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Females,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Females,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Females,28,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Females,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Females,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Females,12,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Females,29,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Marginal workers_Worked for less than_3 months_Total_Females,65,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Females,28,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Females,29,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Marginal workers_Worked for less than_3 months_Total_Females,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Females,57,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Females,35,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Females,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Females,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Females,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Females,28,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Females,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Females,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Females,12,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Females,29,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,635,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,252,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,297,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,77,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,549,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,536,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,202,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,260,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,67,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,462,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,99,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,50,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,37,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,87,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,634,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,251,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,297,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,77,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,548,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,536,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,202,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,260,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,67,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,462,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,98,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,49,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,37,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,86,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,219,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,94,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,89,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,31,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,183,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,153,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,56,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,67,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,27,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,123,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,66,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,38,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,60,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,218,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,93,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,89,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,31,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,182,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,153,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,56,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,67,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,27,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,123,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,65,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,37,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,59,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,416,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,158,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,208,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,46,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,366,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,383,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,146,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,193,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,40,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,339,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,33,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,12,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,15,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,27,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,416,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,158,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,208,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,46,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,366,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,383,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,146,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,193,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,40,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,339,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,33,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,12,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,15,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,27,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Marginal workers_Seeking/available for work_Persons,160,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Marginal workers_Seeking/available for work_Persons,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Marginal workers_Seeking/available for work_Persons,91,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Marginal workers_Seeking/available for work_Persons,58,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Marginal workers_Seeking/available for work_Persons,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Marginal workers_Seeking/available for work_Persons,149,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Marginal workers_Seeking/available for work_Persons,122,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Marginal workers_Seeking/available for work_Persons,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Marginal workers_Seeking/available for work_Persons,66,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Marginal workers_Seeking/available for work_Persons,47,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Marginal workers_Seeking/available for work_Persons,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Marginal workers_Seeking/available for work_Persons,113,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Marginal workers_Seeking/available for work_Persons,38,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Marginal workers_Seeking/available for work_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Marginal workers_Seeking/available for work_Persons,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Marginal workers_Seeking/available for work_Persons,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Marginal workers_Seeking/available for work_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Marginal workers_Seeking/available for work_Persons,36,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Marginal workers_Seeking/available for work_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Marginal workers_Seeking/available for work_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Marginal workers_Seeking/available for work_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Marginal workers_Seeking/available for work_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Marginal workers_Seeking/available for work_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Marginal workers_Seeking/available for work_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Marginal workers_Seeking/available for work_Persons,158,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Marginal workers_Seeking/available for work_Persons,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Marginal workers_Seeking/available for work_Persons,89,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Marginal workers_Seeking/available for work_Persons,58,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Marginal workers_Seeking/available for work_Persons,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Marginal workers_Seeking/available for work_Persons,147,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Marginal workers_Seeking/available for work_Persons,122,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Marginal workers_Seeking/available for work_Persons,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Marginal workers_Seeking/available for work_Persons,66,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Marginal workers_Seeking/available for work_Persons,47,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Marginal workers_Seeking/available for work_Persons,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Marginal workers_Seeking/available for work_Persons,113,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Marginal workers_Seeking/available for work_Persons,36,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Marginal workers_Seeking/available for work_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Marginal workers_Seeking/available for work_Persons,23,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Marginal workers_Seeking/available for work_Persons,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Marginal workers_Seeking/available for work_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Marginal workers_Seeking/available for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Marginal workers_Seeking/available for work_Persons,34,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Marginal workers_Seeking/available for work_Males,92,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Marginal workers_Seeking/available for work_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Marginal workers_Seeking/available for work_Males,52,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Marginal workers_Seeking/available for work_Males,34,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Marginal workers_Seeking/available for work_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Marginal workers_Seeking/available for work_Males,86,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Marginal workers_Seeking/available for work_Males,65,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Marginal workers_Seeking/available for work_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Marginal workers_Seeking/available for work_Males,35,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Marginal workers_Seeking/available for work_Males,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Marginal workers_Seeking/available for work_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Marginal workers_Seeking/available for work_Males,60,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Marginal workers_Seeking/available for work_Males,27,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Marginal workers_Seeking/available for work_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Marginal workers_Seeking/available for work_Males,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Marginal workers_Seeking/available for work_Males,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Marginal workers_Seeking/available for work_Males,26,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Marginal workers_Seeking/available for work_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Marginal workers_Seeking/available for work_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Marginal workers_Seeking/available for work_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Marginal workers_Seeking/available for work_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Marginal workers_Seeking/available for work_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Marginal workers_Seeking/available for work_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Marginal workers_Seeking/available for work_Males,90,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Marginal workers_Seeking/available for work_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Marginal workers_Seeking/available for work_Males,50,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Marginal workers_Seeking/available for work_Males,34,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Marginal workers_Seeking/available for work_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Marginal workers_Seeking/available for work_Males,84,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Marginal workers_Seeking/available for work_Males,65,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Marginal workers_Seeking/available for work_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Marginal workers_Seeking/available for work_Males,35,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Marginal workers_Seeking/available for work_Males,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Marginal workers_Seeking/available for work_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Marginal workers_Seeking/available for work_Males,60,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Marginal workers_Seeking/available for work_Males,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Marginal workers_Seeking/available for work_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Marginal workers_Seeking/available for work_Males,15,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Marginal workers_Seeking/available for work_Males,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Marginal workers_Seeking/available for work_Males,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Marginal workers_Seeking/available for work_Females,68,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Marginal workers_Seeking/available for work_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Marginal workers_Seeking/available for work_Females,39,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Marginal workers_Seeking/available for work_Females,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Marginal workers_Seeking/available for work_Females,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Marginal workers_Seeking/available for work_Females,63,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Marginal workers_Seeking/available for work_Females,57,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Marginal workers_Seeking/available for work_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Marginal workers_Seeking/available for work_Females,31,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Marginal workers_Seeking/available for work_Females,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Marginal workers_Seeking/available for work_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Marginal workers_Seeking/available for work_Females,53,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Marginal workers_Seeking/available for work_Females,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Marginal workers_Seeking/available for work_Females,8,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Marginal workers_Seeking/available for work_Females,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Marginal workers_Seeking/available for work_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Marginal workers_Seeking/available for work_Females,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Marginal workers_Seeking/available for work_Females,68,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Marginal workers_Seeking/available for work_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Marginal workers_Seeking/available for work_Females,39,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Marginal workers_Seeking/available for work_Females,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Marginal workers_Seeking/available for work_Females,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Marginal workers_Seeking/available for work_Females,63,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Marginal workers_Seeking/available for work_Females,57,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Marginal workers_Seeking/available for work_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Marginal workers_Seeking/available for work_Females,31,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Marginal workers_Seeking/available for work_Females,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Marginal workers_Seeking/available for work_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Marginal workers_Seeking/available for work_Females,53,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Marginal workers_Seeking/available for work_Females,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Marginal workers_Seeking/available for work_Females,8,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Marginal workers_Seeking/available for work_Females,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Marginal workers_Seeking/available for work_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Marginal workers_Seeking/available for work_Females,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Non-workers_Total_Persons,8639,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Non-workers_Total_Persons,2809,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Non-workers_Total_Persons,2833,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Non-workers_Total_Persons,1158,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Non-workers_Total_Persons,584,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Non-workers_Total_Persons,8,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Non-workers_Total_Persons,3991,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Non-workers_Total_Persons,4133,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Non-workers_Total_Persons,1436,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Non-workers_Total_Persons,1265,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Non-workers_Total_Persons,497,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Non-workers_Total_Persons,296,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Non-workers_Total_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Non-workers_Total_Persons,1762,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Non-workers_Total_Persons,4506,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Non-workers_Total_Persons,1373,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Non-workers_Total_Persons,1568,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Non-workers_Total_Persons,661,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Non-workers_Total_Persons,288,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Non-workers_Total_Persons,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Non-workers_Total_Persons,2229,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Non-workers_Total_Persons,91,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Non-workers_Total_Persons,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Non-workers_Total_Persons,46,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Non-workers_Total_Persons,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Non-workers_Total_Persons,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Non-workers_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Non-workers_Total_Persons,63,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Non-workers_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Non-workers_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Non-workers_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Non-workers_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Non-workers_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Non-workers_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Non-workers_Total_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Non-workers_Total_Persons,90,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Non-workers_Total_Persons,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Non-workers_Total_Persons,45,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Non-workers_Total_Persons,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Non-workers_Total_Persons,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Non-workers_Total_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Non-workers_Total_Persons,62,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Non-workers_Total_Persons,8548,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Non-workers_Total_Persons,2796,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Non-workers_Total_Persons,2787,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Non-workers_Total_Persons,1141,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Non-workers_Total_Persons,578,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Non-workers_Total_Persons,8,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Non-workers_Total_Persons,3928,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Non-workers_Total_Persons,4132,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Non-workers_Total_Persons,1436,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Non-workers_Total_Persons,1264,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Non-workers_Total_Persons,497,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Non-workers_Total_Persons,296,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Non-workers_Total_Persons,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Non-workers_Total_Persons,1761,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Non-workers_Total_Persons,4416,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Non-workers_Total_Persons,1360,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Non-workers_Total_Persons,1523,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Non-workers_Total_Persons,644,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Non-workers_Total_Persons,282,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Non-workers_Total_Persons,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Non-workers_Total_Persons,2167,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Non-workers_Total_Males,3366,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Non-workers_Total_Males,1443,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Non-workers_Total_Males,936,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Non-workers_Total_Males,143,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Non-workers_Total_Males,194,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Non-workers_Total_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Non-workers_Total_Males,1079,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Non-workers_Total_Males,1663,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Non-workers_Total_Males,741,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Non-workers_Total_Males,447,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Non-workers_Total_Males,37,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Non-workers_Total_Males,105,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Non-workers_Total_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Non-workers_Total_Males,484,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Non-workers_Total_Males,1703,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Non-workers_Total_Males,702,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Non-workers_Total_Males,489,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Non-workers_Total_Males,106,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Non-workers_Total_Males,89,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Non-workers_Total_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Non-workers_Total_Males,595,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Non-workers_Total_Males,41,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Non-workers_Total_Males,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Non-workers_Total_Males,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Non-workers_Total_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Non-workers_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Non-workers_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Non-workers_Total_Males,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Non-workers_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Non-workers_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Non-workers_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Non-workers_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Non-workers_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Non-workers_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Non-workers_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Non-workers_Total_Males,41,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Non-workers_Total_Males,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Non-workers_Total_Males,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Non-workers_Total_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Non-workers_Total_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Non-workers_Total_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Non-workers_Total_Males,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Non-workers_Total_Males,3325,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Non-workers_Total_Males,1433,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Non-workers_Total_Males,914,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Non-workers_Total_Males,141,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Non-workers_Total_Males,193,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Non-workers_Total_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Non-workers_Total_Males,1055,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Non-workers_Total_Males,1663,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Non-workers_Total_Males,741,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Non-workers_Total_Males,447,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Non-workers_Total_Males,37,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Non-workers_Total_Males,105,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Non-workers_Total_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Non-workers_Total_Males,484,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Non-workers_Total_Males,1662,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Non-workers_Total_Males,692,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Non-workers_Total_Males,467,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Non-workers_Total_Males,104,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Non-workers_Total_Males,88,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Non-workers_Total_Males,2,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Non-workers_Total_Males,571,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Non-workers_Total_Females,5273,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Non-workers_Total_Females,1366,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Non-workers_Total_Females,1897,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Non-workers_Total_Females,1015,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Non-workers_Total_Females,390,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Non-workers_Total_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Non-workers_Total_Females,2912,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Non-workers_Total_Females,2470,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Non-workers_Total_Females,695,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Non-workers_Total_Females,818,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Non-workers_Total_Females,460,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Non-workers_Total_Females,191,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Non-workers_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Non-workers_Total_Females,1278,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Non-workers_Total_Females,2803,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Non-workers_Total_Females,671,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Non-workers_Total_Females,1079,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Non-workers_Total_Females,555,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Non-workers_Total_Females,199,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Non-workers_Total_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Non-workers_Total_Females,1634,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Non-workers_Total_Females,50,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Non-workers_Total_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Non-workers_Total_Females,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Non-workers_Total_Females,15,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Non-workers_Total_Females,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Non-workers_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Non-workers_Total_Females,39,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Non-workers_Total_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Non-workers_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Non-workers_Total_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Non-workers_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Non-workers_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Non-workers_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Non-workers_Total_Females,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Non-workers_Total_Females,49,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Non-workers_Total_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Non-workers_Total_Females,23,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Non-workers_Total_Females,15,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Non-workers_Total_Females,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Non-workers_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Non-workers_Total_Females,38,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Non-workers_Total_Females,5223,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Non-workers_Total_Females,1363,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Non-workers_Total_Females,1873,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Non-workers_Total_Females,1000,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Non-workers_Total_Females,385,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Non-workers_Total_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Non-workers_Total_Females,2873,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Non-workers_Total_Females,2469,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Non-workers_Total_Females,695,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Non-workers_Total_Females,817,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Non-workers_Total_Females,460,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Non-workers_Total_Females,191,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Non-workers_Total_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Non-workers_Total_Females,1277,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Non-workers_Total_Females,2754,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Non-workers_Total_Females,668,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Non-workers_Total_Females,1056,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Non-workers_Total_Females,540,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Non-workers_Total_Females,194,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Non-workers_Total_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Non-workers_Total_Females,1596,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Non-workers_Seeking/availabe for work_Persons,562,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Non-workers_Seeking/availabe for work_Persons,24,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Non-workers_Seeking/availabe for work_Persons,448,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Non-workers_Seeking/availabe for work_Persons,79,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Non-workers_Seeking/availabe for work_Persons,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Non-workers_Seeking/availabe for work_Persons,527,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Non-workers_Seeking/availabe for work_Persons,254,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Non-workers_Seeking/availabe for work_Persons,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Non-workers_Seeking/availabe for work_Persons,211,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Non-workers_Seeking/availabe for work_Persons,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Non-workers_Seeking/availabe for work_Persons,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Non-workers_Seeking/availabe for work_Persons,241,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Non-workers_Seeking/availabe for work_Persons,308,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Non-workers_Seeking/availabe for work_Persons,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Non-workers_Seeking/availabe for work_Persons,237,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Non-workers_Seeking/availabe for work_Persons,49,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Non-workers_Seeking/availabe for work_Persons,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Non-workers_Seeking/availabe for work_Persons,286,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Non-workers_Seeking/availabe for work_Persons,16,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Non-workers_Seeking/availabe for work_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Non-workers_Seeking/availabe for work_Persons,15,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Non-workers_Seeking/availabe for work_Persons,15,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Non-workers_Seeking/availabe for work_Persons,16,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Non-workers_Seeking/availabe for work_Persons,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Non-workers_Seeking/availabe for work_Persons,15,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Non-workers_Seeking/availabe for work_Persons,15,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Non-workers_Seeking/availabe for work_Persons,546,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Non-workers_Seeking/availabe for work_Persons,23,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Non-workers_Seeking/availabe for work_Persons,433,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Non-workers_Seeking/availabe for work_Persons,79,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Non-workers_Seeking/availabe for work_Persons,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Non-workers_Seeking/availabe for work_Persons,512,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Non-workers_Seeking/availabe for work_Persons,254,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Non-workers_Seeking/availabe for work_Persons,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Non-workers_Seeking/availabe for work_Persons,211,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Non-workers_Seeking/availabe for work_Persons,30,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Non-workers_Seeking/availabe for work_Persons,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Non-workers_Seeking/availabe for work_Persons,241,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Non-workers_Seeking/availabe for work_Persons,292,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Non-workers_Seeking/availabe for work_Persons,16,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Non-workers_Seeking/availabe for work_Persons,222,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Non-workers_Seeking/availabe for work_Persons,49,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Non-workers_Seeking/availabe for work_Persons,5,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Non-workers_Seeking/availabe for work_Persons,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Non-workers_Seeking/availabe for work_Persons,271,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Non-workers_Seeking/availabe for work_Males,272,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Non-workers_Seeking/availabe for work_Males,14,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Non-workers_Seeking/availabe for work_Males,229,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Non-workers_Seeking/availabe for work_Males,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Non-workers_Seeking/availabe for work_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Non-workers_Seeking/availabe for work_Males,254,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Non-workers_Seeking/availabe for work_Males,121,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Non-workers_Seeking/availabe for work_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Non-workers_Seeking/availabe for work_Males,107,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Non-workers_Seeking/availabe for work_Males,8,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Non-workers_Seeking/availabe for work_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Non-workers_Seeking/availabe for work_Males,115,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Non-workers_Seeking/availabe for work_Males,151,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Non-workers_Seeking/availabe for work_Males,11,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Non-workers_Seeking/availabe for work_Males,122,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Non-workers_Seeking/availabe for work_Males,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Non-workers_Seeking/availabe for work_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Non-workers_Seeking/availabe for work_Males,139,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Non-workers_Seeking/availabe for work_Males,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Non-workers_Seeking/availabe for work_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Non-workers_Seeking/availabe for work_Males,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Non-workers_Seeking/availabe for work_Males,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Non-workers_Seeking/availabe for work_Males,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Non-workers_Seeking/availabe for work_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Non-workers_Seeking/availabe for work_Males,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Non-workers_Seeking/availabe for work_Males,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Non-workers_Seeking/availabe for work_Males,265,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Non-workers_Seeking/availabe for work_Males,13,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Non-workers_Seeking/availabe for work_Males,223,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Non-workers_Seeking/availabe for work_Males,25,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Non-workers_Seeking/availabe for work_Males,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Non-workers_Seeking/availabe for work_Males,248,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Non-workers_Seeking/availabe for work_Males,121,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Non-workers_Seeking/availabe for work_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Non-workers_Seeking/availabe for work_Males,107,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Non-workers_Seeking/availabe for work_Males,8,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Non-workers_Seeking/availabe for work_Males,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Non-workers_Seeking/availabe for work_Males,115,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Non-workers_Seeking/availabe for work_Males,144,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Non-workers_Seeking/availabe for work_Males,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Non-workers_Seeking/availabe for work_Males,116,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Non-workers_Seeking/availabe for work_Males,17,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Non-workers_Seeking/availabe for work_Males,1,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Non-workers_Seeking/availabe for work_Males,133,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Total,Non-workers_Seeking/availabe for work_Females,290,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,5-14,Non-workers_Seeking/availabe for work_Females,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-34,Non-workers_Seeking/availabe for work_Females,219,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,35-59,Non-workers_Seeking/availabe for work_Females,54,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,60+,Non-workers_Seeking/availabe for work_Females,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,Age not stated,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Total,15-59,Non-workers_Seeking/availabe for work_Females,273,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Total,Non-workers_Seeking/availabe for work_Females,133,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,5-14,Non-workers_Seeking/availabe for work_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-34,Non-workers_Seeking/availabe for work_Females,104,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,35-59,Non-workers_Seeking/availabe for work_Females,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,60+,Non-workers_Seeking/availabe for work_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,Age not stated,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Rural,15-59,Non-workers_Seeking/availabe for work_Females,126,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Total,Non-workers_Seeking/availabe for work_Females,157,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,5-14,Non-workers_Seeking/availabe for work_Females,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-34,Non-workers_Seeking/availabe for work_Females,115,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,35-59,Non-workers_Seeking/availabe for work_Females,32,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,60+,Non-workers_Seeking/availabe for work_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,Age not stated,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,000,State - DAMAN & DIU (25),Urban,15-59,Non-workers_Seeking/availabe for work_Females,147,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Total,Non-workers_Seeking/availabe for work_Females,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,5-14,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-34,Non-workers_Seeking/availabe for work_Females,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,35-59,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,60+,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,Age not stated,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Total,15-59,Non-workers_Seeking/availabe for work_Females,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Total,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,5-14,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-34,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,35-59,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,60+,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,Age not stated,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Rural,15-59,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Total,Non-workers_Seeking/availabe for work_Females,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,5-14,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-34,Non-workers_Seeking/availabe for work_Females,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,35-59,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,60+,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,Age not stated,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,494,District - Diu (01),Urban,15-59,Non-workers_Seeking/availabe for work_Females,9,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Total,Non-workers_Seeking/availabe for work_Females,281,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,5-14,Non-workers_Seeking/availabe for work_Females,10,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-34,Non-workers_Seeking/availabe for work_Females,210,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,35-59,Non-workers_Seeking/availabe for work_Females,54,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,60+,Non-workers_Seeking/availabe for work_Females,7,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,Age not stated,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Total,15-59,Non-workers_Seeking/availabe for work_Females,264,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Total,Non-workers_Seeking/availabe for work_Females,133,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,5-14,Non-workers_Seeking/availabe for work_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-34,Non-workers_Seeking/availabe for work_Females,104,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,35-59,Non-workers_Seeking/availabe for work_Females,22,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,60+,Non-workers_Seeking/availabe for work_Females,3,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,Age not stated,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Rural,15-59,Non-workers_Seeking/availabe for work_Females,126,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Total,Non-workers_Seeking/availabe for work_Females,148,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,5-14,Non-workers_Seeking/availabe for work_Females,6,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-34,Non-workers_Seeking/availabe for work_Females,106,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,35-59,Non-workers_Seeking/availabe for work_Females,32,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,60+,Non-workers_Seeking/availabe for work_Females,4,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,Age not stated,Non-workers_Seeking/availabe for work_Females,0,DDW-2500B-01ST-Census.xls,01ST
+B0301ST,25,495,District - Daman (02),Urban,15-59,Non-workers_Seeking/availabe for work_Females,138,DDW-2500B-01ST-Census.xls,01ST

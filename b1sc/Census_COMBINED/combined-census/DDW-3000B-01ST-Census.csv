@@ -1,0 +1,1324 @@
+table_name,state_code,district_code,area_name,total_rural_urban,age_group,metric,value,source_file,dataset_code
+B0301ST,30,000,State - GOA (30),Total,Total,Population_Persons,149275,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Population_Persons,23529,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Population_Persons,52438,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Population_Persons,48264,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Population_Persons,14473,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Population_Persons,173,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Population_Persons,100702,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Population_Persons,87639,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Population_Persons,13741,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Population_Persons,31116,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Population_Persons,27965,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Population_Persons,8472,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Population_Persons,90,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Population_Persons,59081,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Population_Persons,61636,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Population_Persons,9788,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Population_Persons,21322,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Population_Persons,20299,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Population_Persons,6001,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Population_Persons,83,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Population_Persons,41621,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Population_Persons,56606,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Population_Persons,8342,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Population_Persons,19829,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Population_Persons,19282,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Population_Persons,5347,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Population_Persons,102,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Population_Persons,39111,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Population_Persons,27694,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Population_Persons,4139,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Population_Persons,9586,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Population_Persons,9481,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Population_Persons,2673,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Population_Persons,37,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Population_Persons,19067,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Population_Persons,28912,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Population_Persons,4203,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Population_Persons,10243,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Population_Persons,9801,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Population_Persons,2674,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Population_Persons,65,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Population_Persons,20044,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Population_Persons,92669,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Population_Persons,15187,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Population_Persons,32609,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Population_Persons,28982,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Population_Persons,9126,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Population_Persons,71,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Population_Persons,61591,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Population_Persons,59945,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Population_Persons,9602,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Population_Persons,21530,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Population_Persons,18484,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Population_Persons,5799,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Population_Persons,53,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Population_Persons,40014,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Population_Persons,32724,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Population_Persons,5585,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Population_Persons,11079,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Population_Persons,10498,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Population_Persons,3327,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Population_Persons,18,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Population_Persons,21577,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Population_Males,72948,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Population_Males,12093,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Population_Males,25961,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Population_Males,23726,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Population_Males,5821,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Population_Males,79,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Population_Males,49687,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Population_Males,43263,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Population_Males,7014,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Population_Males,15522,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Population_Males,13840,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Population_Males,3645,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Population_Males,39,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Population_Males,29362,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Population_Males,29685,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Population_Males,5079,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Population_Males,10439,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Population_Males,9886,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Population_Males,2176,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Population_Males,40,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Population_Males,20325,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Population_Males,27824,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Population_Males,4253,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Population_Males,9863,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Population_Males,9667,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Population_Males,2109,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Population_Males,51,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Population_Males,19530,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Population_Males,13600,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Population_Males,2094,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Population_Males,4756,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Population_Males,4741,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Population_Males,1067,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Population_Males,19,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Population_Males,9497,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Population_Males,14224,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Population_Males,2159,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Population_Males,5107,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Population_Males,4926,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Population_Males,1042,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Population_Males,32,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Population_Males,10033,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Population_Males,45124,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Population_Males,7840,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Population_Males,16098,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Population_Males,14059,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Population_Males,3712,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Population_Males,28,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Population_Males,30157,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Population_Males,29663,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Population_Males,4920,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Population_Males,10766,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Population_Males,9099,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Population_Males,2578,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Population_Males,20,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Population_Males,19865,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Population_Males,15461,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Population_Males,2920,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Population_Males,5332,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Population_Males,4960,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Population_Males,1134,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Population_Males,8,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Population_Males,10292,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Population_Females,76327,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Population_Females,11436,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Population_Females,26477,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Population_Females,24538,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Population_Females,8652,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Population_Females,94,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Population_Females,51015,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Population_Females,44376,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Population_Females,6727,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Population_Females,15594,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Population_Females,14125,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Population_Females,4827,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Population_Females,51,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Population_Females,29719,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Population_Females,31951,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Population_Females,4709,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Population_Females,10883,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Population_Females,10413,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Population_Females,3825,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Population_Females,43,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Population_Females,21296,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Population_Females,28782,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Population_Females,4089,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Population_Females,9966,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Population_Females,9615,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Population_Females,3238,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Population_Females,51,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Population_Females,19581,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Population_Females,14094,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Population_Females,2045,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Population_Females,4830,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Population_Females,4740,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Population_Females,1606,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Population_Females,18,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Population_Females,9570,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Population_Females,14688,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Population_Females,2044,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Population_Females,5136,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Population_Females,4875,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Population_Females,1632,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Population_Females,33,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Population_Females,10011,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Population_Females,47545,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Population_Females,7347,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Population_Females,16511,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Population_Females,14923,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Population_Females,5414,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Population_Females,43,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Population_Females,31434,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Population_Females,30282,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Population_Females,4682,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Population_Females,10764,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Population_Females,9385,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Population_Females,3221,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Population_Females,33,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Population_Females,20149,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Population_Females,17263,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Population_Females,2665,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Population_Females,5747,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Population_Females,5538,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Population_Females,2193,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Population_Females,10,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Population_Females,11285,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Main workers_Persons,46779,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Main workers_Persons,757,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Main workers_Persons,19438,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Main workers_Persons,23669,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Main workers_Persons,2854,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Main workers_Persons,61,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Main workers_Persons,43107,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Main workers_Persons,27647,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Main workers_Persons,409,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Main workers_Persons,11555,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Main workers_Persons,13807,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Main workers_Persons,1840,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Main workers_Persons,36,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Main workers_Persons,25362,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Main workers_Persons,19132,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Main workers_Persons,348,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Main workers_Persons,7883,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Main workers_Persons,9862,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Main workers_Persons,1014,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Main workers_Persons,25,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Main workers_Persons,17745,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Main workers_Persons,17944,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Main workers_Persons,292,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Main workers_Persons,7650,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Main workers_Persons,9160,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Main workers_Persons,813,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Main workers_Persons,29,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Main workers_Persons,16810,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Main workers_Persons,7830,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Main workers_Persons,119,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Main workers_Persons,3363,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Main workers_Persons,4010,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Main workers_Persons,330,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Main workers_Persons,8,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Main workers_Persons,7373,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Main workers_Persons,10114,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Main workers_Persons,173,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Main workers_Persons,4287,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Main workers_Persons,5150,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Main workers_Persons,483,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Main workers_Persons,21,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Main workers_Persons,9437,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Main workers_Persons,28835,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Main workers_Persons,465,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Main workers_Persons,11788,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Main workers_Persons,14509,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Main workers_Persons,2041,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Main workers_Persons,32,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Main workers_Persons,26297,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Main workers_Persons,19817,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Main workers_Persons,290,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Main workers_Persons,8192,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Main workers_Persons,9797,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Main workers_Persons,1510,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Main workers_Persons,28,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Main workers_Persons,17989,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Main workers_Persons,9018,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Main workers_Persons,175,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Main workers_Persons,3596,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Main workers_Persons,4712,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Main workers_Persons,531,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Main workers_Persons,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Main workers_Persons,8308,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Main workers_Males,31887,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Main workers_Males,396,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Main workers_Males,12733,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Main workers_Males,16880,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Main workers_Males,1840,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Main workers_Males,38,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Main workers_Males,29613,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Main workers_Males,18899,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Main workers_Males,212,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Main workers_Males,7619,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Main workers_Males,9778,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Main workers_Males,1271,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Main workers_Males,19,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Main workers_Males,17397,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Main workers_Males,12988,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Main workers_Males,184,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Main workers_Males,5114,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Main workers_Males,7102,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Main workers_Males,569,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Main workers_Males,19,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Main workers_Males,12216,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Main workers_Males,12429,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Main workers_Males,160,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Main workers_Males,5002,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Main workers_Males,6746,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Main workers_Males,499,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Main workers_Males,22,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Main workers_Males,11748,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Main workers_Males,5501,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Main workers_Males,63,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Main workers_Males,2211,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Main workers_Males,3008,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Main workers_Males,214,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Main workers_Males,5,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Main workers_Males,5219,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Main workers_Males,6928,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Main workers_Males,97,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Main workers_Males,2791,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Main workers_Males,3738,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Main workers_Males,285,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Main workers_Males,17,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Main workers_Males,6529,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Main workers_Males,19458,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Main workers_Males,236,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Main workers_Males,7731,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Main workers_Males,10134,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Main workers_Males,1341,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Main workers_Males,16,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Main workers_Males,17865,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Main workers_Males,13398,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Main workers_Males,149,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Main workers_Males,5408,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Main workers_Males,6770,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Main workers_Males,1057,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Main workers_Males,14,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Main workers_Males,12178,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Main workers_Males,6060,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Main workers_Males,87,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Main workers_Males,2323,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Main workers_Males,3364,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Main workers_Males,284,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Main workers_Males,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Main workers_Males,5687,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Main workers_Females,14892,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Main workers_Females,361,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Main workers_Females,6705,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Main workers_Females,6789,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Main workers_Females,1014,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Main workers_Females,23,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Main workers_Females,13494,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Main workers_Females,8748,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Main workers_Females,197,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Main workers_Females,3936,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Main workers_Females,4029,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Main workers_Females,569,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Main workers_Females,17,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Main workers_Females,7965,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Main workers_Females,6144,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Main workers_Females,164,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Main workers_Females,2769,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Main workers_Females,2760,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Main workers_Females,445,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Main workers_Females,6,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Main workers_Females,5529,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Main workers_Females,5515,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Main workers_Females,132,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Main workers_Females,2648,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Main workers_Females,2414,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Main workers_Females,314,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Main workers_Females,7,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Main workers_Females,5062,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Main workers_Females,2329,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Main workers_Females,56,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Main workers_Females,1152,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Main workers_Females,1002,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Main workers_Females,116,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Main workers_Females,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Main workers_Females,2154,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Main workers_Females,3186,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Main workers_Females,76,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Main workers_Females,1496,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Main workers_Females,1412,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Main workers_Females,198,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Main workers_Females,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Main workers_Females,2908,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Main workers_Females,9377,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Main workers_Females,229,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Main workers_Females,4057,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Main workers_Females,4375,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Main workers_Females,700,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Main workers_Females,16,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Main workers_Females,8432,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Main workers_Females,6419,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Main workers_Females,141,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Main workers_Females,2784,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Main workers_Females,3027,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Main workers_Females,453,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Main workers_Females,14,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Main workers_Females,5811,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Main workers_Females,2958,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Main workers_Females,88,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Main workers_Females,1273,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Main workers_Females,1348,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Main workers_Females,247,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Main workers_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Main workers_Females,2621,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Marginal workers_Worked for less than_3 months_Total_Persons,4377,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,47,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,1602,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,2187,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Marginal workers_Worked for less than_3 months_Total_Persons,538,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,3789,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Persons,3018,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,39,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,1217,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,1450,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Persons,310,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,2667,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Persons,1359,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,8,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,385,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,737,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Persons,228,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,1122,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Marginal workers_Worked for less than_3 months_Total_Persons,1221,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,8,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,426,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,660,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Marginal workers_Worked for less than_3 months_Total_Persons,127,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,1086,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Persons,839,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,297,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,459,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Persons,80,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,756,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Persons,382,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,5,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,129,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,201,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Persons,47,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,330,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Marginal workers_Worked for less than_3 months_Total_Persons,3156,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,39,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,1176,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,1527,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Marginal workers_Worked for less than_3 months_Total_Persons,411,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,2703,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Persons,2179,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,36,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,920,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,991,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Persons,230,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,1911,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Persons,977,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Persons,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Persons,256,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Persons,536,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Persons,181,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Persons,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Persons,792,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Marginal workers_Worked for less than_3 months_Total_Males,2100,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Males,25,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Males,793,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Males,1032,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Marginal workers_Worked for less than_3 months_Total_Males,249,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Males,1825,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Males,1426,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Males,20,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Males,576,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Males,670,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Males,160,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Males,1246,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Males,674,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Males,5,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Males,217,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Males,362,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Males,89,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Males,579,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Marginal workers_Worked for less than_3 months_Total_Males,700,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Males,7,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Males,232,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Males,386,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Marginal workers_Worked for less than_3 months_Total_Males,75,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Males,618,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Males,497,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Males,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Males,158,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Males,282,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Males,54,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Males,440,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Males,203,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Males,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Males,74,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Males,104,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Males,21,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Males,178,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Marginal workers_Worked for less than_3 months_Total_Males,1400,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Males,18,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Males,561,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Males,646,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Marginal workers_Worked for less than_3 months_Total_Males,174,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Males,1207,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Males,929,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Males,17,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Males,418,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Males,388,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Males,106,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Males,806,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Males,471,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Males,143,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Males,258,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Males,68,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Males,401,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Marginal workers_Worked for less than_3 months_Total_Females,2277,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Females,22,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Females,809,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Females,1155,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Marginal workers_Worked for less than_3 months_Total_Females,289,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Females,1964,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Females,1592,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Females,19,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Females,641,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Females,780,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Females,150,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Females,1421,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Females,685,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Females,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Females,168,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Females,375,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Females,139,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Females,543,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Marginal workers_Worked for less than_3 months_Total_Females,521,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Females,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Females,194,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Females,274,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Marginal workers_Worked for less than_3 months_Total_Females,52,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Females,468,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Females,342,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Females,139,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Females,177,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Females,26,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Females,316,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Females,179,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Females,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Females,55,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Females,97,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Females,26,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Females,152,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Marginal workers_Worked for less than_3 months_Total_Females,1756,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Marginal workers_Worked for less than_3 months_Total_Females,21,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Marginal workers_Worked for less than_3 months_Total_Females,615,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Marginal workers_Worked for less than_3 months_Total_Females,881,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Marginal workers_Worked for less than_3 months_Total_Females,237,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Marginal workers_Worked for less than_3 months_Total_Females,1496,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Marginal workers_Worked for less than_3 months_Total_Females,1250,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Marginal workers_Worked for less than_3 months_Total_Females,19,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Marginal workers_Worked for less than_3 months_Total_Females,502,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Marginal workers_Worked for less than_3 months_Total_Females,603,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Marginal workers_Worked for less than_3 months_Total_Females,124,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Marginal workers_Worked for less than_3 months_Total_Females,1105,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Marginal workers_Worked for less than_3 months_Total_Females,506,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Marginal workers_Worked for less than_3 months_Total_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Marginal workers_Worked for less than_3 months_Total_Females,113,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Marginal workers_Worked for less than_3 months_Total_Females,278,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Marginal workers_Worked for less than_3 months_Total_Females,113,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Marginal workers_Worked for less than_3 months_Total_Females,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Marginal workers_Worked for less than_3 months_Total_Females,391,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,12487,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,216,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,5086,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,6177,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,991,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,17,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,11263,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,7763,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,94,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,3350,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,3716,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,595,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,8,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,7066,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,4724,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,122,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,1736,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,2461,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,396,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,9,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,4197,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,4123,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,97,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,1624,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,2076,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,315,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,11,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,3700,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,2287,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,39,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,938,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,1146,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,160,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,2084,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,1836,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,58,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,686,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,930,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,155,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,7,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,1616,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,8364,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,119,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,3462,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,4101,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,676,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,6,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,7563,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,5476,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,55,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,2412,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,2570,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,435,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,4982,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Persons,2888,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Persons,64,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Persons,1050,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,1531,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Persons,241,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Persons,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Persons,2581,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,6679,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,99,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,2799,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,3204,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,571,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,6,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,6003,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,4073,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,41,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,1768,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,1902,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,358,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,3670,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,2606,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,58,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,1031,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,1302,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,213,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,2333,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,2504,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,44,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,979,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,1278,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,198,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,5,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,2257,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,1433,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,15,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,575,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,741,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,99,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,1316,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,1071,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,29,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,404,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,537,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,99,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,941,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,4175,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,55,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,1820,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,1926,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,373,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,3746,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,2640,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,26,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,1193,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,1161,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,259,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,2354,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Males,1535,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Males,29,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Males,627,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Males,765,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Males,114,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Males,1392,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,5808,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,117,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,2287,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,2973,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,420,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,11,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,5260,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,3690,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,53,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,1582,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,1814,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,237,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,3396,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,2118,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,64,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,705,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,1159,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,183,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,7,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,1864,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,1619,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,53,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,645,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,798,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,117,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,6,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,1443,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,854,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,24,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,363,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,405,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,61,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,768,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,765,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,29,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,282,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,393,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,56,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,5,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,675,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,4189,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,64,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,1642,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,2175,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,303,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,5,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,3817,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,2836,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,29,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,1219,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,1409,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,176,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,2628,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Marginal workers_Worked for 3 to 6 months_Total_Females,1353,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Marginal workers_Worked for 3 to 6 months_Total_Females,35,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Marginal workers_Worked for 3 to 6 months_Total_Females,423,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Marginal workers_Worked for 3 to 6 months_Total_Females,766,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Marginal workers_Worked for 3 to 6 months_Total_Females,127,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Marginal workers_Worked for 3 to 6 months_Total_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Marginal workers_Worked for 3 to 6 months_Total_Females,1189,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Marginal workers_Seeking/available for work_Persons,7534,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Marginal workers_Seeking/available for work_Persons,122,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Marginal workers_Seeking/available for work_Persons,4051,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Marginal workers_Seeking/available for work_Persons,3106,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Marginal workers_Seeking/available for work_Persons,249,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Marginal workers_Seeking/available for work_Persons,6,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Marginal workers_Seeking/available for work_Persons,7157,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Marginal workers_Seeking/available for work_Persons,4940,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Marginal workers_Seeking/available for work_Persons,50,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Marginal workers_Seeking/available for work_Persons,2858,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Marginal workers_Seeking/available for work_Persons,1923,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Marginal workers_Seeking/available for work_Persons,108,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Marginal workers_Seeking/available for work_Persons,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Marginal workers_Seeking/available for work_Persons,4781,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Marginal workers_Seeking/available for work_Persons,2594,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Marginal workers_Seeking/available for work_Persons,72,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Marginal workers_Seeking/available for work_Persons,1193,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Marginal workers_Seeking/available for work_Persons,1183,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Marginal workers_Seeking/available for work_Persons,141,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Marginal workers_Seeking/available for work_Persons,5,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Marginal workers_Seeking/available for work_Persons,2376,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Marginal workers_Seeking/available for work_Persons,2700,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Marginal workers_Seeking/available for work_Persons,59,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Marginal workers_Seeking/available for work_Persons,1305,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Marginal workers_Seeking/available for work_Persons,1249,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Marginal workers_Seeking/available for work_Persons,83,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Marginal workers_Seeking/available for work_Persons,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Marginal workers_Seeking/available for work_Persons,2554,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Marginal workers_Seeking/available for work_Persons,1494,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Marginal workers_Seeking/available for work_Persons,27,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Marginal workers_Seeking/available for work_Persons,767,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Marginal workers_Seeking/available for work_Persons,672,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Marginal workers_Seeking/available for work_Persons,27,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Marginal workers_Seeking/available for work_Persons,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Marginal workers_Seeking/available for work_Persons,1439,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Marginal workers_Seeking/available for work_Persons,1206,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Marginal workers_Seeking/available for work_Persons,32,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Marginal workers_Seeking/available for work_Persons,538,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Marginal workers_Seeking/available for work_Persons,577,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Marginal workers_Seeking/available for work_Persons,56,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Marginal workers_Seeking/available for work_Persons,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Marginal workers_Seeking/available for work_Persons,1115,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Marginal workers_Seeking/available for work_Persons,4834,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Marginal workers_Seeking/available for work_Persons,63,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Marginal workers_Seeking/available for work_Persons,2746,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Marginal workers_Seeking/available for work_Persons,1857,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Marginal workers_Seeking/available for work_Persons,166,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Marginal workers_Seeking/available for work_Persons,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Marginal workers_Seeking/available for work_Persons,4603,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Marginal workers_Seeking/available for work_Persons,3446,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Marginal workers_Seeking/available for work_Persons,23,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Marginal workers_Seeking/available for work_Persons,2091,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Marginal workers_Seeking/available for work_Persons,1251,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Marginal workers_Seeking/available for work_Persons,81,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Marginal workers_Seeking/available for work_Persons,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Marginal workers_Seeking/available for work_Persons,3342,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Marginal workers_Seeking/available for work_Persons,1388,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Marginal workers_Seeking/available for work_Persons,40,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Marginal workers_Seeking/available for work_Persons,655,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Marginal workers_Seeking/available for work_Persons,606,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Marginal workers_Seeking/available for work_Persons,85,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Marginal workers_Seeking/available for work_Persons,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Marginal workers_Seeking/available for work_Persons,1261,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Marginal workers_Seeking/available for work_Males,4350,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Marginal workers_Seeking/available for work_Males,57,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Marginal workers_Seeking/available for work_Males,2342,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Marginal workers_Seeking/available for work_Males,1813,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Marginal workers_Seeking/available for work_Males,136,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Marginal workers_Seeking/available for work_Males,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Marginal workers_Seeking/available for work_Males,4155,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Marginal workers_Seeking/available for work_Males,2838,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Marginal workers_Seeking/available for work_Males,19,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Marginal workers_Seeking/available for work_Males,1614,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Marginal workers_Seeking/available for work_Males,1135,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Marginal workers_Seeking/available for work_Males,69,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Marginal workers_Seeking/available for work_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Marginal workers_Seeking/available for work_Males,2749,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Marginal workers_Seeking/available for work_Males,1512,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Marginal workers_Seeking/available for work_Males,38,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Marginal workers_Seeking/available for work_Males,728,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Marginal workers_Seeking/available for work_Males,678,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Marginal workers_Seeking/available for work_Males,67,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Marginal workers_Seeking/available for work_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Marginal workers_Seeking/available for work_Males,1406,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Marginal workers_Seeking/available for work_Males,1714,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Marginal workers_Seeking/available for work_Males,26,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Marginal workers_Seeking/available for work_Males,806,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Marginal workers_Seeking/available for work_Males,829,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Marginal workers_Seeking/available for work_Males,51,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Marginal workers_Seeking/available for work_Males,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Marginal workers_Seeking/available for work_Males,1635,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Marginal workers_Seeking/available for work_Males,970,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Marginal workers_Seeking/available for work_Males,8,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Marginal workers_Seeking/available for work_Males,469,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Marginal workers_Seeking/available for work_Males,471,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Marginal workers_Seeking/available for work_Males,21,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Marginal workers_Seeking/available for work_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Marginal workers_Seeking/available for work_Males,940,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Marginal workers_Seeking/available for work_Males,744,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Marginal workers_Seeking/available for work_Males,18,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Marginal workers_Seeking/available for work_Males,337,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Marginal workers_Seeking/available for work_Males,358,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Marginal workers_Seeking/available for work_Males,30,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Marginal workers_Seeking/available for work_Males,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Marginal workers_Seeking/available for work_Males,695,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Marginal workers_Seeking/available for work_Males,2636,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Marginal workers_Seeking/available for work_Males,31,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Marginal workers_Seeking/available for work_Males,1536,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Marginal workers_Seeking/available for work_Males,984,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Marginal workers_Seeking/available for work_Males,85,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Marginal workers_Seeking/available for work_Males,2520,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Marginal workers_Seeking/available for work_Males,1868,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Marginal workers_Seeking/available for work_Males,11,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Marginal workers_Seeking/available for work_Males,1145,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Marginal workers_Seeking/available for work_Males,664,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Marginal workers_Seeking/available for work_Males,48,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Marginal workers_Seeking/available for work_Males,1809,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Marginal workers_Seeking/available for work_Males,768,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Marginal workers_Seeking/available for work_Males,20,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Marginal workers_Seeking/available for work_Males,391,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Marginal workers_Seeking/available for work_Males,320,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Marginal workers_Seeking/available for work_Males,37,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Marginal workers_Seeking/available for work_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Marginal workers_Seeking/available for work_Males,711,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Marginal workers_Seeking/available for work_Females,3184,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Marginal workers_Seeking/available for work_Females,65,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Marginal workers_Seeking/available for work_Females,1709,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Marginal workers_Seeking/available for work_Females,1293,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Marginal workers_Seeking/available for work_Females,113,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Marginal workers_Seeking/available for work_Females,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Marginal workers_Seeking/available for work_Females,3002,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Marginal workers_Seeking/available for work_Females,2102,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Marginal workers_Seeking/available for work_Females,31,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Marginal workers_Seeking/available for work_Females,1244,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Marginal workers_Seeking/available for work_Females,788,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Marginal workers_Seeking/available for work_Females,39,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Marginal workers_Seeking/available for work_Females,2032,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Marginal workers_Seeking/available for work_Females,1082,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Marginal workers_Seeking/available for work_Females,34,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Marginal workers_Seeking/available for work_Females,465,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Marginal workers_Seeking/available for work_Females,505,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Marginal workers_Seeking/available for work_Females,74,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Marginal workers_Seeking/available for work_Females,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Marginal workers_Seeking/available for work_Females,970,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Marginal workers_Seeking/available for work_Females,986,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Marginal workers_Seeking/available for work_Females,33,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Marginal workers_Seeking/available for work_Females,499,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Marginal workers_Seeking/available for work_Females,420,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Marginal workers_Seeking/available for work_Females,32,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Marginal workers_Seeking/available for work_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Marginal workers_Seeking/available for work_Females,919,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Marginal workers_Seeking/available for work_Females,524,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Marginal workers_Seeking/available for work_Females,19,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Marginal workers_Seeking/available for work_Females,298,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Marginal workers_Seeking/available for work_Females,201,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Marginal workers_Seeking/available for work_Females,6,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Marginal workers_Seeking/available for work_Females,499,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Marginal workers_Seeking/available for work_Females,462,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Marginal workers_Seeking/available for work_Females,14,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Marginal workers_Seeking/available for work_Females,201,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Marginal workers_Seeking/available for work_Females,219,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Marginal workers_Seeking/available for work_Females,26,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Marginal workers_Seeking/available for work_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Marginal workers_Seeking/available for work_Females,420,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Marginal workers_Seeking/available for work_Females,2198,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Marginal workers_Seeking/available for work_Females,32,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Marginal workers_Seeking/available for work_Females,1210,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Marginal workers_Seeking/available for work_Females,873,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Marginal workers_Seeking/available for work_Females,81,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Marginal workers_Seeking/available for work_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Marginal workers_Seeking/available for work_Females,2083,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Marginal workers_Seeking/available for work_Females,1578,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Marginal workers_Seeking/available for work_Females,12,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Marginal workers_Seeking/available for work_Females,946,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Marginal workers_Seeking/available for work_Females,587,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Marginal workers_Seeking/available for work_Females,33,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Marginal workers_Seeking/available for work_Females,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Marginal workers_Seeking/available for work_Females,1533,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Marginal workers_Seeking/available for work_Females,620,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Marginal workers_Seeking/available for work_Females,20,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Marginal workers_Seeking/available for work_Females,264,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Marginal workers_Seeking/available for work_Females,286,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Marginal workers_Seeking/available for work_Females,48,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Marginal workers_Seeking/available for work_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Marginal workers_Seeking/available for work_Females,550,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Non-workers_Total_Persons,85632,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Non-workers_Total_Persons,22509,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Non-workers_Total_Persons,26312,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Non-workers_Total_Persons,16231,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Non-workers_Total_Persons,10090,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Non-workers_Total_Persons,92,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Non-workers_Total_Persons,42543,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Non-workers_Total_Persons,49211,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Non-workers_Total_Persons,13199,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Non-workers_Total_Persons,14994,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Non-workers_Total_Persons,8992,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Non-workers_Total_Persons,5727,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Non-workers_Total_Persons,44,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Non-workers_Total_Persons,23986,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Non-workers_Total_Persons,36421,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Non-workers_Total_Persons,9310,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Non-workers_Total_Persons,11318,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Non-workers_Total_Persons,7239,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Non-workers_Total_Persons,4363,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Non-workers_Total_Persons,48,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Non-workers_Total_Persons,18557,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Non-workers_Total_Persons,33318,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Non-workers_Total_Persons,7945,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Non-workers_Total_Persons,10129,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Non-workers_Total_Persons,7386,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Non-workers_Total_Persons,4092,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Non-workers_Total_Persons,62,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Non-workers_Total_Persons,17515,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Non-workers_Total_Persons,16738,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Non-workers_Total_Persons,3978,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Non-workers_Total_Persons,4988,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Non-workers_Total_Persons,3866,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Non-workers_Total_Persons,2103,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Non-workers_Total_Persons,25,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Non-workers_Total_Persons,8854,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Non-workers_Total_Persons,16580,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Non-workers_Total_Persons,3967,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Non-workers_Total_Persons,5141,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Non-workers_Total_Persons,3520,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Non-workers_Total_Persons,1989,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Non-workers_Total_Persons,37,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Non-workers_Total_Persons,8661,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Non-workers_Total_Persons,52314,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Non-workers_Total_Persons,14564,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Non-workers_Total_Persons,16183,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Non-workers_Total_Persons,8845,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Non-workers_Total_Persons,5998,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Non-workers_Total_Persons,30,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Non-workers_Total_Persons,25028,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Non-workers_Total_Persons,32473,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Non-workers_Total_Persons,9221,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Non-workers_Total_Persons,10006,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Non-workers_Total_Persons,5126,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Non-workers_Total_Persons,3624,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Non-workers_Total_Persons,19,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Non-workers_Total_Persons,15132,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Non-workers_Total_Persons,19841,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Non-workers_Total_Persons,5343,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Non-workers_Total_Persons,6177,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Non-workers_Total_Persons,3719,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Non-workers_Total_Persons,2374,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Non-workers_Total_Persons,11,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Non-workers_Total_Persons,9896,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Non-workers_Total_Males,32282,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Non-workers_Total_Males,11573,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Non-workers_Total_Males,9636,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Non-workers_Total_Males,2610,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Non-workers_Total_Males,3161,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Non-workers_Total_Males,34,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Non-workers_Total_Males,12246,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Non-workers_Total_Males,18865,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Non-workers_Total_Males,6741,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Non-workers_Total_Males,5559,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Non-workers_Total_Males,1490,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Non-workers_Total_Males,1856,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Non-workers_Total_Males,16,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Non-workers_Total_Males,7049,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Non-workers_Total_Males,13417,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Non-workers_Total_Males,4832,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Non-workers_Total_Males,4077,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Non-workers_Total_Males,1120,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Non-workers_Total_Males,1305,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Non-workers_Total_Males,18,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Non-workers_Total_Males,5197,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Non-workers_Total_Males,12191,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Non-workers_Total_Males,4042,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Non-workers_Total_Males,3650,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Non-workers_Total_Males,1257,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Non-workers_Total_Males,1337,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Non-workers_Total_Males,24,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Non-workers_Total_Males,4907,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Non-workers_Total_Males,6169,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Non-workers_Total_Males,2013,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Non-workers_Total_Males,1812,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Non-workers_Total_Males,710,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Non-workers_Total_Males,700,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Non-workers_Total_Males,11,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Non-workers_Total_Males,2522,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Non-workers_Total_Males,6022,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Non-workers_Total_Males,2029,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Non-workers_Total_Males,1838,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Non-workers_Total_Males,547,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Non-workers_Total_Males,637,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Non-workers_Total_Males,13,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Non-workers_Total_Males,2385,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Non-workers_Total_Males,20091,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Non-workers_Total_Males,7531,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Non-workers_Total_Males,5986,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Non-workers_Total_Males,1353,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Non-workers_Total_Males,1824,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Non-workers_Total_Males,10,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Non-workers_Total_Males,7339,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Non-workers_Total_Males,12696,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Non-workers_Total_Males,4728,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Non-workers_Total_Males,3747,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Non-workers_Total_Males,780,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Non-workers_Total_Males,1156,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Non-workers_Total_Males,5,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Non-workers_Total_Males,4527,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Non-workers_Total_Males,7395,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Non-workers_Total_Males,2803,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Non-workers_Total_Males,2239,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Non-workers_Total_Males,573,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Non-workers_Total_Males,668,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Non-workers_Total_Males,5,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Non-workers_Total_Males,2812,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Non-workers_Total_Females,53350,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Non-workers_Total_Females,10936,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Non-workers_Total_Females,16676,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Non-workers_Total_Females,13621,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Non-workers_Total_Females,6929,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Non-workers_Total_Females,58,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Non-workers_Total_Females,30297,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Non-workers_Total_Females,30346,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Non-workers_Total_Females,6458,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Non-workers_Total_Females,9435,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Non-workers_Total_Females,7502,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Non-workers_Total_Females,3871,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Non-workers_Total_Females,28,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Non-workers_Total_Females,16937,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Non-workers_Total_Females,23004,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Non-workers_Total_Females,4478,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Non-workers_Total_Females,7241,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Non-workers_Total_Females,6119,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Non-workers_Total_Females,3058,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Non-workers_Total_Females,30,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Non-workers_Total_Females,13360,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Non-workers_Total_Females,21127,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Non-workers_Total_Females,3903,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Non-workers_Total_Females,6479,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Non-workers_Total_Females,6129,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Non-workers_Total_Females,2755,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Non-workers_Total_Females,38,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Non-workers_Total_Females,12608,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Non-workers_Total_Females,10569,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Non-workers_Total_Females,1965,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Non-workers_Total_Females,3176,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Non-workers_Total_Females,3156,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Non-workers_Total_Females,1403,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Non-workers_Total_Females,14,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Non-workers_Total_Females,6332,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Non-workers_Total_Females,10558,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Non-workers_Total_Females,1938,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Non-workers_Total_Females,3303,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Non-workers_Total_Females,2973,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Non-workers_Total_Females,1352,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Non-workers_Total_Females,24,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Non-workers_Total_Females,6276,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Non-workers_Total_Females,32223,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Non-workers_Total_Females,7033,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Non-workers_Total_Females,10197,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Non-workers_Total_Females,7492,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Non-workers_Total_Females,4174,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Non-workers_Total_Females,20,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Non-workers_Total_Females,17689,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Non-workers_Total_Females,19777,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Non-workers_Total_Females,4493,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Non-workers_Total_Females,6259,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Non-workers_Total_Females,4346,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Non-workers_Total_Females,2468,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Non-workers_Total_Females,14,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Non-workers_Total_Females,10605,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Non-workers_Total_Females,12446,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Non-workers_Total_Females,2540,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Non-workers_Total_Females,3938,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Non-workers_Total_Females,3146,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Non-workers_Total_Females,1706,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Non-workers_Total_Females,6,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Non-workers_Total_Females,7084,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Non-workers_Seeking/availabe for work_Persons,13949,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Non-workers_Seeking/availabe for work_Persons,565,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Non-workers_Seeking/availabe for work_Persons,10035,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Non-workers_Seeking/availabe for work_Persons,3084,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Non-workers_Seeking/availabe for work_Persons,257,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Non-workers_Seeking/availabe for work_Persons,8,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Non-workers_Seeking/availabe for work_Persons,13119,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Non-workers_Seeking/availabe for work_Persons,8225,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Non-workers_Seeking/availabe for work_Persons,316,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Non-workers_Seeking/availabe for work_Persons,6112,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Non-workers_Seeking/availabe for work_Persons,1663,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Non-workers_Seeking/availabe for work_Persons,133,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Non-workers_Seeking/availabe for work_Persons,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Non-workers_Seeking/availabe for work_Persons,7775,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Non-workers_Seeking/availabe for work_Persons,5724,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Non-workers_Seeking/availabe for work_Persons,249,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Non-workers_Seeking/availabe for work_Persons,3923,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Non-workers_Seeking/availabe for work_Persons,1421,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Non-workers_Seeking/availabe for work_Persons,124,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Non-workers_Seeking/availabe for work_Persons,7,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Non-workers_Seeking/availabe for work_Persons,5344,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Non-workers_Seeking/availabe for work_Persons,6176,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Non-workers_Seeking/availabe for work_Persons,341,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Non-workers_Seeking/availabe for work_Persons,4095,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Non-workers_Seeking/availabe for work_Persons,1615,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Non-workers_Seeking/availabe for work_Persons,118,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Non-workers_Seeking/availabe for work_Persons,7,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Non-workers_Seeking/availabe for work_Persons,5710,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Non-workers_Seeking/availabe for work_Persons,3020,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Non-workers_Seeking/availabe for work_Persons,159,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Non-workers_Seeking/availabe for work_Persons,2060,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Non-workers_Seeking/availabe for work_Persons,760,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Non-workers_Seeking/availabe for work_Persons,40,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Non-workers_Seeking/availabe for work_Persons,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Non-workers_Seeking/availabe for work_Persons,2820,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Non-workers_Seeking/availabe for work_Persons,3156,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Non-workers_Seeking/availabe for work_Persons,182,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Non-workers_Seeking/availabe for work_Persons,2035,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Non-workers_Seeking/availabe for work_Persons,855,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Non-workers_Seeking/availabe for work_Persons,78,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Non-workers_Seeking/availabe for work_Persons,6,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Non-workers_Seeking/availabe for work_Persons,2890,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Non-workers_Seeking/availabe for work_Persons,7773,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Non-workers_Seeking/availabe for work_Persons,224,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Non-workers_Seeking/availabe for work_Persons,5940,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Non-workers_Seeking/availabe for work_Persons,1469,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Non-workers_Seeking/availabe for work_Persons,139,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Non-workers_Seeking/availabe for work_Persons,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Non-workers_Seeking/availabe for work_Persons,7409,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Non-workers_Seeking/availabe for work_Persons,5205,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Non-workers_Seeking/availabe for work_Persons,157,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Non-workers_Seeking/availabe for work_Persons,4052,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Non-workers_Seeking/availabe for work_Persons,903,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Non-workers_Seeking/availabe for work_Persons,93,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Non-workers_Seeking/availabe for work_Persons,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Non-workers_Seeking/availabe for work_Persons,4955,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Non-workers_Seeking/availabe for work_Persons,2568,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Non-workers_Seeking/availabe for work_Persons,67,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Non-workers_Seeking/availabe for work_Persons,1888,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Non-workers_Seeking/availabe for work_Persons,566,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Non-workers_Seeking/availabe for work_Persons,46,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Non-workers_Seeking/availabe for work_Persons,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Non-workers_Seeking/availabe for work_Persons,2454,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Non-workers_Seeking/availabe for work_Males,5330,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Non-workers_Seeking/availabe for work_Males,301,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Non-workers_Seeking/availabe for work_Males,4121,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Non-workers_Seeking/availabe for work_Males,820,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Non-workers_Seeking/availabe for work_Males,84,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Non-workers_Seeking/availabe for work_Males,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Non-workers_Seeking/availabe for work_Males,4941,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Non-workers_Seeking/availabe for work_Males,3154,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Non-workers_Seeking/availabe for work_Males,166,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Non-workers_Seeking/availabe for work_Males,2493,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Non-workers_Seeking/availabe for work_Males,456,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Non-workers_Seeking/availabe for work_Males,39,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Non-workers_Seeking/availabe for work_Males,2949,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Non-workers_Seeking/availabe for work_Males,2176,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Non-workers_Seeking/availabe for work_Males,135,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Non-workers_Seeking/availabe for work_Males,1628,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Non-workers_Seeking/availabe for work_Males,364,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Non-workers_Seeking/availabe for work_Males,45,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Non-workers_Seeking/availabe for work_Males,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Non-workers_Seeking/availabe for work_Males,1992,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Non-workers_Seeking/availabe for work_Males,2345,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Non-workers_Seeking/availabe for work_Males,186,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Non-workers_Seeking/availabe for work_Males,1654,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Non-workers_Seeking/availabe for work_Males,462,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Non-workers_Seeking/availabe for work_Males,39,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Non-workers_Seeking/availabe for work_Males,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Non-workers_Seeking/availabe for work_Males,2116,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Non-workers_Seeking/availabe for work_Males,1200,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Non-workers_Seeking/availabe for work_Males,82,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Non-workers_Seeking/availabe for work_Males,856,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Non-workers_Seeking/availabe for work_Males,252,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Non-workers_Seeking/availabe for work_Males,10,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Non-workers_Seeking/availabe for work_Males,1108,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Non-workers_Seeking/availabe for work_Males,1145,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Non-workers_Seeking/availabe for work_Males,104,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Non-workers_Seeking/availabe for work_Males,798,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Non-workers_Seeking/availabe for work_Males,210,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Non-workers_Seeking/availabe for work_Males,29,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Non-workers_Seeking/availabe for work_Males,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Non-workers_Seeking/availabe for work_Males,1008,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Non-workers_Seeking/availabe for work_Males,2985,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Non-workers_Seeking/availabe for work_Males,115,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Non-workers_Seeking/availabe for work_Males,2467,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Non-workers_Seeking/availabe for work_Males,358,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Non-workers_Seeking/availabe for work_Males,45,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Non-workers_Seeking/availabe for work_Males,2825,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Non-workers_Seeking/availabe for work_Males,1954,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Non-workers_Seeking/availabe for work_Males,84,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Non-workers_Seeking/availabe for work_Males,1637,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Non-workers_Seeking/availabe for work_Males,204,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Non-workers_Seeking/availabe for work_Males,29,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Non-workers_Seeking/availabe for work_Males,1841,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Non-workers_Seeking/availabe for work_Males,1031,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Non-workers_Seeking/availabe for work_Males,31,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Non-workers_Seeking/availabe for work_Males,830,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Non-workers_Seeking/availabe for work_Males,154,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Non-workers_Seeking/availabe for work_Males,16,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Non-workers_Seeking/availabe for work_Males,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Non-workers_Seeking/availabe for work_Males,984,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Total,Non-workers_Seeking/availabe for work_Females,8619,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,5-14,Non-workers_Seeking/availabe for work_Females,264,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-34,Non-workers_Seeking/availabe for work_Females,5914,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,35-59,Non-workers_Seeking/availabe for work_Females,2264,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,60+,Non-workers_Seeking/availabe for work_Females,173,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,Age not stated,Non-workers_Seeking/availabe for work_Females,4,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Total,15-59,Non-workers_Seeking/availabe for work_Females,8178,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Total,Non-workers_Seeking/availabe for work_Females,5071,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,5-14,Non-workers_Seeking/availabe for work_Females,150,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-34,Non-workers_Seeking/availabe for work_Females,3619,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,35-59,Non-workers_Seeking/availabe for work_Females,1207,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,60+,Non-workers_Seeking/availabe for work_Females,94,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,Age not stated,Non-workers_Seeking/availabe for work_Females,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Rural,15-59,Non-workers_Seeking/availabe for work_Females,4826,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Total,Non-workers_Seeking/availabe for work_Females,3548,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,5-14,Non-workers_Seeking/availabe for work_Females,114,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-34,Non-workers_Seeking/availabe for work_Females,2295,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,35-59,Non-workers_Seeking/availabe for work_Females,1057,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,60+,Non-workers_Seeking/availabe for work_Females,79,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,Age not stated,Non-workers_Seeking/availabe for work_Females,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,000,State - GOA (30),Urban,15-59,Non-workers_Seeking/availabe for work_Females,3352,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Total,Non-workers_Seeking/availabe for work_Females,3831,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,5-14,Non-workers_Seeking/availabe for work_Females,155,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-34,Non-workers_Seeking/availabe for work_Females,2441,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,35-59,Non-workers_Seeking/availabe for work_Females,1153,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,60+,Non-workers_Seeking/availabe for work_Females,79,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,Age not stated,Non-workers_Seeking/availabe for work_Females,3,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Total,15-59,Non-workers_Seeking/availabe for work_Females,3594,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Total,Non-workers_Seeking/availabe for work_Females,1820,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,5-14,Non-workers_Seeking/availabe for work_Females,77,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-34,Non-workers_Seeking/availabe for work_Females,1204,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,35-59,Non-workers_Seeking/availabe for work_Females,508,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,60+,Non-workers_Seeking/availabe for work_Females,30,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,Age not stated,Non-workers_Seeking/availabe for work_Females,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Rural,15-59,Non-workers_Seeking/availabe for work_Females,1712,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Total,Non-workers_Seeking/availabe for work_Females,2011,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,5-14,Non-workers_Seeking/availabe for work_Females,78,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-34,Non-workers_Seeking/availabe for work_Females,1237,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,35-59,Non-workers_Seeking/availabe for work_Females,645,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,60+,Non-workers_Seeking/availabe for work_Females,49,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,Age not stated,Non-workers_Seeking/availabe for work_Females,2,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,585,District - North Goa (01),Urban,15-59,Non-workers_Seeking/availabe for work_Females,1882,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Total,Non-workers_Seeking/availabe for work_Females,4788,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,5-14,Non-workers_Seeking/availabe for work_Females,109,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-34,Non-workers_Seeking/availabe for work_Females,3473,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,35-59,Non-workers_Seeking/availabe for work_Females,1111,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,60+,Non-workers_Seeking/availabe for work_Females,94,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,Age not stated,Non-workers_Seeking/availabe for work_Females,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Total,15-59,Non-workers_Seeking/availabe for work_Females,4584,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Total,Non-workers_Seeking/availabe for work_Females,3251,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,5-14,Non-workers_Seeking/availabe for work_Females,73,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-34,Non-workers_Seeking/availabe for work_Females,2415,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,35-59,Non-workers_Seeking/availabe for work_Females,699,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,60+,Non-workers_Seeking/availabe for work_Females,64,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,Age not stated,Non-workers_Seeking/availabe for work_Females,0,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Rural,15-59,Non-workers_Seeking/availabe for work_Females,3114,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Total,Non-workers_Seeking/availabe for work_Females,1537,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,5-14,Non-workers_Seeking/availabe for work_Females,36,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-34,Non-workers_Seeking/availabe for work_Females,1058,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,35-59,Non-workers_Seeking/availabe for work_Females,412,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,60+,Non-workers_Seeking/availabe for work_Females,30,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,Age not stated,Non-workers_Seeking/availabe for work_Females,1,DDW-3000B-01ST-Census.xls,01ST
+B0301ST,30,586,District - South Goa (02),Urban,15-59,Non-workers_Seeking/availabe for work_Females,1470,DDW-3000B-01ST-Census.xls,01ST

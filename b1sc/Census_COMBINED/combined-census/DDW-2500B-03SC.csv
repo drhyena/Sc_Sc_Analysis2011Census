@@ -1,0 +1,1297 @@
+table_name,state_code,district_code,area_name,total_rural_urban,educational_level,metric,value,source_file,dataset_code
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Population_Persons,6124.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Population_Persons,1021.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Population_Persons,5103.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Population_Persons,2488.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Population_Persons,1922.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Population_Persons,146.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Population_Persons,290.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,87.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Population_Persons,2167.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Population_Persons,321.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Population_Persons,1846.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Population_Persons,875.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Population_Persons,727.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Population_Persons,60.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Population_Persons,88.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,34.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Population_Persons,3957.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Population_Persons,700.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Population_Persons,3257.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Population_Persons,1613.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Population_Persons,1195.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Population_Persons,86.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Population_Persons,202.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,53.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Population_Persons,1862.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Population_Persons,392.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Population_Persons,1470.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Population_Persons,752.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Population_Persons,526.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Population_Persons,37.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Population_Persons,100.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,26.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Population_Persons,493.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Population_Persons,126.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Population_Persons,367.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Population_Persons,197.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Population_Persons,136.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Population_Persons,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Population_Persons,20.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Population_Persons,1369.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Population_Persons,266.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Population_Persons,1103.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Population_Persons,555.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Population_Persons,390.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Population_Persons,27.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Population_Persons,80.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,24.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Population_Persons,4262.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Population_Persons,629.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Population_Persons,3633.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Population_Persons,1736.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Population_Persons,1396.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Population_Persons,109.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Population_Persons,190.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,61.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Population_Persons,1674.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Population_Persons,195.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Population_Persons,1479.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Population_Persons,678.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Population_Persons,591.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Population_Persons,50.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Population_Persons,68.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Population_Persons,2588.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Population_Persons,434.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Population_Persons,2154.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Population_Persons,1058.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Population_Persons,805.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Population_Persons,59.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Population_Persons,122.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,29.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Population_Males,3151.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Population_Males,407.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Population_Males,2744.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Population_Males,1188.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Population_Males,1136.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Population_Males,88.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Population_Males,189.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,58.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Population_Males,1108.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Population_Males,118.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Population_Males,990.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Population_Males,400.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Population_Males,446.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Population_Males,40.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Population_Males,55.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,23.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Population_Males,2043.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Population_Males,289.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Population_Males,1754.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Population_Males,788.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Population_Males,690.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Population_Males,48.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Population_Males,134.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,35.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Population_Males,927.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Population_Males,137.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Population_Males,790.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Population_Males,349.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Population_Males,323.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Population_Males,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Population_Males,70.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,18.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Population_Males,258.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Population_Males,43.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Population_Males,215.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Population_Males,98.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Population_Males,94.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Population_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Population_Males,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Population_Males,669.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Population_Males,94.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Population_Males,575.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Population_Males,251.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Population_Males,229.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Population_Males,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Population_Males,54.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Population_Males,2224.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Population_Males,270.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Population_Males,1954.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Population_Males,839.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Population_Males,813.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Population_Males,73.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Population_Males,119.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,40.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Population_Males,850.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Population_Males,75.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Population_Males,775.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Population_Males,302.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Population_Males,352.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Population_Males,35.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Population_Males,39.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Population_Males,1374.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Population_Males,195.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Population_Males,1179.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Population_Males,537.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Population_Males,461.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Population_Males,38.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Population_Males,80.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,18.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Population_Females,2973.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Population_Females,614.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Population_Females,2359.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Population_Females,1300.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Population_Females,786.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Population_Females,58.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Population_Females,101.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,29.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Population_Females,1059.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Population_Females,203.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Population_Females,856.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Population_Females,475.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Population_Females,281.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Population_Females,20.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Population_Females,33.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Population_Females,1914.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Population_Females,411.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Population_Females,1503.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Population_Females,825.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Population_Females,505.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Population_Females,38.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Population_Females,68.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,18.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Population_Females,935.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Population_Females,255.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Population_Females,680.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Population_Females,403.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Population_Females,203.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Population_Females,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Population_Females,30.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Population_Females,235.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Population_Females,83.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Population_Females,152.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Population_Females,99.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Population_Females,42.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Population_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Population_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Population_Females,700.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Population_Females,172.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Population_Females,528.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Population_Females,304.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Population_Females,161.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Population_Females,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Population_Females,26.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Population_Females,2038.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Population_Females,359.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Population_Females,1679.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Population_Females,897.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Population_Females,583.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Population_Females,36.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Population_Females,71.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Population_Females,824.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Population_Females,120.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Population_Females,704.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Population_Females,376.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Population_Females,239.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Population_Females,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Population_Females,29.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Population_Females,1214.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Population_Females,239.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Population_Females,975.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Population_Females,521.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Population_Females,344.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Population_Females,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Population_Females,42.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Main workers_Persons,1984.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Main workers_Persons,111.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Main workers_Persons,1873.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Main workers_Persons,625.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Main workers_Persons,853.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Main workers_Persons,82.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Main workers_Persons,182.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,53.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Main workers_Persons,638.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Main workers_Persons,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Main workers_Persons,622.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Main workers_Persons,176.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Main workers_Persons,323.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Main workers_Persons,33.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Main workers_Persons,47.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Main workers_Persons,1346.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Main workers_Persons,95.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Main workers_Persons,1251.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Main workers_Persons,449.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Main workers_Persons,530.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Main workers_Persons,49.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Main workers_Persons,135.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Main workers_Persons,520.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Main workers_Persons,49.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Main workers_Persons,471.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Main workers_Persons,153.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Main workers_Persons,214.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Main workers_Persons,19.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Main workers_Persons,57.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Main workers_Persons,119.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Main workers_Persons,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Main workers_Persons,108.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Main workers_Persons,37.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Main workers_Persons,56.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Main workers_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Main workers_Persons,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Main workers_Persons,401.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Main workers_Persons,38.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Main workers_Persons,363.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Main workers_Persons,116.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Main workers_Persons,158.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Main workers_Persons,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Main workers_Persons,47.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Main workers_Persons,1464.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Main workers_Persons,62.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Main workers_Persons,1402.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Main workers_Persons,472.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Main workers_Persons,639.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Main workers_Persons,63.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Main workers_Persons,125.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,38.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Main workers_Persons,519.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Main workers_Persons,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Main workers_Persons,514.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Main workers_Persons,139.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Main workers_Persons,267.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Main workers_Persons,31.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Main workers_Persons,37.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,19.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Main workers_Persons,945.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Main workers_Persons,57.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Main workers_Persons,888.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Main workers_Persons,333.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Main workers_Persons,372.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Main workers_Persons,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Main workers_Persons,88.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,19.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Main workers_Males,1633.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Main workers_Males,50.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Main workers_Males,1583.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Main workers_Males,497.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Main workers_Males,776.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Main workers_Males,61.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Main workers_Males,149.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,38.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Main workers_Males,535.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Main workers_Males,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Main workers_Males,526.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Main workers_Males,129.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Main workers_Males,298.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Main workers_Males,29.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Main workers_Males,36.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Main workers_Males,1098.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Main workers_Males,41.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Main workers_Males,1057.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Main workers_Males,368.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Main workers_Males,478.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Main workers_Males,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Main workers_Males,113.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,23.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Main workers_Males,411.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Main workers_Males,19.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Main workers_Males,392.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Main workers_Males,120.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Main workers_Males,195.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Main workers_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Main workers_Males,49.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Main workers_Males,107.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Main workers_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Main workers_Males,99.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Main workers_Males,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Main workers_Males,54.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Main workers_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Main workers_Males,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Main workers_Males,304.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Main workers_Males,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Main workers_Males,293.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Main workers_Males,88.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Main workers_Males,141.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Main workers_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Main workers_Males,40.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Main workers_Males,1222.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Main workers_Males,31.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Main workers_Males,1191.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Main workers_Males,377.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Main workers_Males,581.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Main workers_Males,53.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Main workers_Males,100.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,28.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Main workers_Males,428.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Main workers_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Main workers_Males,427.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Main workers_Males,97.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Main workers_Males,244.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Main workers_Males,27.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Main workers_Males,27.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,14.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Main workers_Males,794.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Main workers_Males,30.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Main workers_Males,764.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Main workers_Males,280.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Main workers_Males,337.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Main workers_Males,26.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Main workers_Males,73.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,14.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Main workers_Females,351.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Main workers_Females,61.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Main workers_Females,290.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Main workers_Females,128.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Main workers_Females,77.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Main workers_Females,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Main workers_Females,33.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Main workers_Females,103.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Main workers_Females,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Main workers_Females,96.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Main workers_Females,47.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Main workers_Females,25.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Main workers_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Main workers_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Main workers_Females,248.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Main workers_Females,54.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Main workers_Females,194.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Main workers_Females,81.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Main workers_Females,52.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Main workers_Females,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Main workers_Females,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Main workers_Females,109.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Main workers_Females,30.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Main workers_Females,79.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Main workers_Females,33.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Main workers_Females,19.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Main workers_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Main workers_Females,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Main workers_Females,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Main workers_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Main workers_Females,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Main workers_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Main workers_Females,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Main workers_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Main workers_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Main workers_Females,97.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Main workers_Females,27.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Main workers_Females,70.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Main workers_Females,28.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Main workers_Females,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Main workers_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Main workers_Females,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Main workers_Females,242.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Main workers_Females,31.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Main workers_Females,211.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Main workers_Females,95.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Main workers_Females,58.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Main workers_Females,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Main workers_Females,25.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Main workers_Females,91.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Main workers_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Main workers_Females,87.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Main workers_Females,42.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Main workers_Females,23.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Main workers_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Main workers_Females,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Main workers_Females,151.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Main workers_Females,27.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Main workers_Females,124.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Main workers_Females,53.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Main workers_Females,35.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Main workers_Females,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Main workers_Females,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Marginal workers_Total_Persons,119.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Marginal workers_Total_Persons,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Marginal workers_Total_Persons,108.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Marginal workers_Total_Persons,41.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Marginal workers_Total_Persons,44.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Marginal workers_Total_Persons,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Marginal workers_Total_Persons,77.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Marginal workers_Total_Persons,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Marginal workers_Total_Persons,70.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Marginal workers_Total_Persons,29.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Marginal workers_Total_Persons,28.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Marginal workers_Total_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Marginal workers_Total_Persons,42.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Marginal workers_Total_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Marginal workers_Total_Persons,38.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Marginal workers_Total_Persons,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Marginal workers_Total_Persons,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Marginal workers_Total_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Marginal workers_Total_Persons,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Marginal workers_Total_Persons,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Marginal workers_Total_Persons,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Marginal workers_Total_Persons,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Marginal workers_Total_Persons,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Marginal workers_Total_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Marginal workers_Total_Persons,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Marginal workers_Total_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Marginal workers_Total_Persons,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Marginal workers_Total_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Marginal workers_Total_Persons,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Marginal workers_Total_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Marginal workers_Total_Persons,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Marginal workers_Total_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Marginal workers_Total_Persons,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Marginal workers_Total_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Marginal workers_Total_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Marginal workers_Total_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Marginal workers_Total_Persons,97.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Marginal workers_Total_Persons,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Marginal workers_Total_Persons,91.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Marginal workers_Total_Persons,34.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Marginal workers_Total_Persons,37.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Marginal workers_Total_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Marginal workers_Total_Persons,61.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Marginal workers_Total_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Marginal workers_Total_Persons,58.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Marginal workers_Total_Persons,25.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Marginal workers_Total_Persons,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Marginal workers_Total_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Marginal workers_Total_Persons,36.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Marginal workers_Total_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Marginal workers_Total_Persons,33.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Marginal workers_Total_Persons,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Marginal workers_Total_Persons,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Marginal workers_Total_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Marginal workers_Total_Males,61.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Marginal workers_Total_Males,60.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Marginal workers_Total_Males,20.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Marginal workers_Total_Males,27.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Marginal workers_Total_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Marginal workers_Total_Males,36.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Marginal workers_Total_Males,35.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Marginal workers_Total_Males,14.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Marginal workers_Total_Males,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Marginal workers_Total_Males,25.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Marginal workers_Total_Males,25.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Marginal workers_Total_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Marginal workers_Total_Males,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Marginal workers_Total_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Marginal workers_Total_Males,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Marginal workers_Total_Males,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Marginal workers_Total_Males,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Marginal workers_Total_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Marginal workers_Total_Males,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Marginal workers_Total_Males,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Marginal workers_Total_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Marginal workers_Total_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Marginal workers_Total_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Marginal workers_Total_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Marginal workers_Total_Males,48.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Marginal workers_Total_Males,48.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Marginal workers_Total_Males,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Marginal workers_Total_Males,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Marginal workers_Total_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Marginal workers_Total_Males,26.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Marginal workers_Total_Males,26.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Marginal workers_Total_Males,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Marginal workers_Total_Males,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Marginal workers_Total_Males,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Marginal workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Marginal workers_Total_Males,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Marginal workers_Total_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Marginal workers_Total_Males,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Marginal workers_Total_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Marginal workers_Total_Females,58.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Marginal workers_Total_Females,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Marginal workers_Total_Females,48.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Marginal workers_Total_Females,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Marginal workers_Total_Females,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Marginal workers_Total_Females,41.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Marginal workers_Total_Females,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Marginal workers_Total_Females,35.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Marginal workers_Total_Females,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Marginal workers_Total_Females,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Marginal workers_Total_Females,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Marginal workers_Total_Females,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Marginal workers_Total_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Marginal workers_Total_Females,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Marginal workers_Total_Females,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Marginal workers_Total_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Marginal workers_Total_Females,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Marginal workers_Total_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Marginal workers_Total_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Marginal workers_Total_Females,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Marginal workers_Total_Females,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Marginal workers_Total_Females,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Marginal workers_Total_Females,49.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Marginal workers_Total_Females,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Marginal workers_Total_Females,43.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Marginal workers_Total_Females,18.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Marginal workers_Total_Females,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Marginal workers_Total_Females,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Marginal workers_Total_Females,35.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Marginal workers_Total_Females,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Marginal workers_Total_Females,14.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Marginal workers_Total_Females,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Marginal workers_Total_Females,14.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Marginal workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Marginal workers_Total_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Marginal workers_Total_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Marginal workers_Total_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Marginal workers_Seeking/available for work_Persons,45.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Marginal workers_Seeking/available for work_Persons,44.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,18.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Marginal workers_Seeking/available for work_Persons,35.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Marginal workers_Seeking/available for work_Persons,35.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Marginal workers_Seeking/available for work_Persons,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Marginal workers_Seeking/available for work_Persons,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Marginal workers_Seeking/available for work_Persons,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Marginal workers_Seeking/available for work_Persons,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Marginal workers_Seeking/available for work_Persons,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Marginal workers_Seeking/available for work_Persons,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Marginal workers_Seeking/available for work_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Marginal workers_Seeking/available for work_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Marginal workers_Seeking/available for work_Persons,33.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Marginal workers_Seeking/available for work_Persons,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Marginal workers_Seeking/available for work_Persons,27.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Marginal workers_Seeking/available for work_Persons,27.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Marginal workers_Seeking/available for work_Persons,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Marginal workers_Seeking/available for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Marginal workers_Seeking/available for work_Persons,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Marginal workers_Seeking/available for work_Males,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Marginal workers_Seeking/available for work_Males,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,14.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Marginal workers_Seeking/available for work_Males,24.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Marginal workers_Seeking/available for work_Males,24.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Marginal workers_Seeking/available for work_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Marginal workers_Seeking/available for work_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Marginal workers_Seeking/available for work_Males,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Marginal workers_Seeking/available for work_Males,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Marginal workers_Seeking/available for work_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Marginal workers_Seeking/available for work_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Marginal workers_Seeking/available for work_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Marginal workers_Seeking/available for work_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Marginal workers_Seeking/available for work_Males,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Marginal workers_Seeking/available for work_Males,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Marginal workers_Seeking/available for work_Males,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Marginal workers_Seeking/available for work_Males,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Marginal workers_Seeking/available for work_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Marginal workers_Seeking/available for work_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Marginal workers_Seeking/available for work_Females,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Marginal workers_Seeking/available for work_Females,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Marginal workers_Seeking/available for work_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Marginal workers_Seeking/available for work_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Marginal workers_Seeking/available for work_Females,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Marginal workers_Seeking/available for work_Females,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Marginal workers_Seeking/available for work_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Marginal workers_Seeking/available for work_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Marginal workers_Seeking/available for work_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Marginal workers_Seeking/available for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Non-workers_Total_Persons,4021.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Non-workers_Total_Persons,899.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Non-workers_Total_Persons,3122.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Non-workers_Total_Persons,1822.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Non-workers_Total_Persons,1025.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,56.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Non-workers_Total_Persons,102.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,31.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Non-workers_Total_Persons,1452.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Non-workers_Total_Persons,298.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Non-workers_Total_Persons,1154.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Non-workers_Total_Persons,670.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Non-workers_Total_Persons,376.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Non-workers_Total_Persons,38.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Non-workers_Total_Persons,2569.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Non-workers_Total_Persons,601.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Non-workers_Total_Persons,1968.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Non-workers_Total_Persons,1152.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Non-workers_Total_Persons,649.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,34.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Non-workers_Total_Persons,64.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,19.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Non-workers_Total_Persons,1320.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Non-workers_Total_Persons,338.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Non-workers_Total_Persons,982.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Non-workers_Total_Persons,592.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Non-workers_Total_Persons,305.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Non-workers_Total_Persons,41.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Non-workers_Total_Persons,358.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Non-workers_Total_Persons,111.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Non-workers_Total_Persons,247.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Non-workers_Total_Persons,156.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Non-workers_Total_Persons,74.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Non-workers_Total_Persons,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Non-workers_Total_Persons,962.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Non-workers_Total_Persons,227.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Non-workers_Total_Persons,735.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Non-workers_Total_Persons,436.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Non-workers_Total_Persons,231.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Non-workers_Total_Persons,33.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Non-workers_Total_Persons,2701.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Non-workers_Total_Persons,561.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Non-workers_Total_Persons,2140.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Non-workers_Total_Persons,1230.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Non-workers_Total_Persons,720.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,39.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Non-workers_Total_Persons,61.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,20.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Non-workers_Total_Persons,1094.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Non-workers_Total_Persons,187.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Non-workers_Total_Persons,907.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Non-workers_Total_Persons,514.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Non-workers_Total_Persons,302.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,14.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Non-workers_Total_Persons,30.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Non-workers_Total_Persons,1607.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Non-workers_Total_Persons,374.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Non-workers_Total_Persons,1233.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Non-workers_Total_Persons,716.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Non-workers_Total_Persons,418.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,25.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Non-workers_Total_Persons,31.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Non-workers_Total_Males,1457.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Non-workers_Total_Males,356.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Non-workers_Total_Males,1101.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Non-workers_Total_Males,671.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Non-workers_Total_Males,333.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Non-workers_Total_Males,37.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,18.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Non-workers_Total_Males,537.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Non-workers_Total_Males,108.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Non-workers_Total_Males,429.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Non-workers_Total_Males,257.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Non-workers_Total_Males,133.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Non-workers_Total_Males,18.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Non-workers_Total_Males,920.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Non-workers_Total_Males,248.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Non-workers_Total_Males,672.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Non-workers_Total_Males,414.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Non-workers_Total_Males,200.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Non-workers_Total_Males,19.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Non-workers_Total_Males,503.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Non-workers_Total_Males,117.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Non-workers_Total_Males,386.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Non-workers_Total_Males,225.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Non-workers_Total_Males,122.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Non-workers_Total_Males,20.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Non-workers_Total_Males,141.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Non-workers_Total_Males,34.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Non-workers_Total_Males,107.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Non-workers_Total_Males,63.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Non-workers_Total_Males,35.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Non-workers_Total_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Non-workers_Total_Males,362.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Non-workers_Total_Males,83.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Non-workers_Total_Males,279.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Non-workers_Total_Males,162.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Non-workers_Total_Males,87.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Non-workers_Total_Males,14.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Non-workers_Total_Males,954.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Non-workers_Total_Males,239.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Non-workers_Total_Males,715.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Non-workers_Total_Males,446.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Non-workers_Total_Males,211.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Non-workers_Total_Males,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Non-workers_Total_Males,396.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Non-workers_Total_Males,74.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Non-workers_Total_Males,322.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Non-workers_Total_Males,194.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Non-workers_Total_Males,98.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Non-workers_Total_Males,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Non-workers_Total_Males,558.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Non-workers_Total_Males,165.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Non-workers_Total_Males,393.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Non-workers_Total_Males,252.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Non-workers_Total_Males,113.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Non-workers_Total_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Non-workers_Total_Females,2564.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Non-workers_Total_Females,543.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Non-workers_Total_Females,2021.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Non-workers_Total_Females,1151.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Non-workers_Total_Females,692.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,34.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Non-workers_Total_Females,65.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Non-workers_Total_Females,915.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Non-workers_Total_Females,190.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Non-workers_Total_Females,725.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Non-workers_Total_Females,413.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Non-workers_Total_Females,243.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Non-workers_Total_Females,20.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Non-workers_Total_Females,1649.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Non-workers_Total_Females,353.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Non-workers_Total_Females,1296.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Non-workers_Total_Females,738.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Non-workers_Total_Females,449.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Non-workers_Total_Females,45.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Non-workers_Total_Females,817.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Non-workers_Total_Females,221.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Non-workers_Total_Females,596.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Non-workers_Total_Females,367.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Non-workers_Total_Females,183.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Non-workers_Total_Females,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Non-workers_Total_Females,217.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Non-workers_Total_Females,77.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Non-workers_Total_Females,140.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Non-workers_Total_Females,93.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Non-workers_Total_Females,39.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Non-workers_Total_Females,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Non-workers_Total_Females,600.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Non-workers_Total_Females,144.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Non-workers_Total_Females,456.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Non-workers_Total_Females,274.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Non-workers_Total_Females,144.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Non-workers_Total_Females,19.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Non-workers_Total_Females,1747.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Non-workers_Total_Females,322.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Non-workers_Total_Females,1425.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Non-workers_Total_Females,784.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Non-workers_Total_Females,509.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,23.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Non-workers_Total_Females,44.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Non-workers_Total_Females,698.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Non-workers_Total_Females,113.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Non-workers_Total_Females,585.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Non-workers_Total_Females,320.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Non-workers_Total_Females,204.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Non-workers_Total_Females,18.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Non-workers_Total_Females,1049.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Non-workers_Total_Females,209.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Non-workers_Total_Females,840.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Non-workers_Total_Females,464.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Non-workers_Total_Females,305.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Non-workers_Total_Females,26.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Non-workers_Seeking/availabe for work_Persons,405.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Non-workers_Seeking/availabe for work_Persons,20.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Non-workers_Seeking/availabe for work_Persons,385.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,120.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,187.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,21.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,38.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Non-workers_Seeking/availabe for work_Persons,140.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Non-workers_Seeking/availabe for work_Persons,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Non-workers_Seeking/availabe for work_Persons,134.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,43.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,63.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Non-workers_Seeking/availabe for work_Persons,265.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Non-workers_Seeking/availabe for work_Persons,14.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Non-workers_Seeking/availabe for work_Persons,251.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,77.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,124.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Non-workers_Seeking/availabe for work_Persons,223.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Non-workers_Seeking/availabe for work_Persons,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Non-workers_Seeking/availabe for work_Persons,207.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,69.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,95.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,23.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Non-workers_Seeking/availabe for work_Persons,58.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Non-workers_Seeking/availabe for work_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Non-workers_Seeking/availabe for work_Persons,55.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,20.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,24.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Non-workers_Seeking/availabe for work_Persons,165.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Non-workers_Seeking/availabe for work_Persons,13.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Non-workers_Seeking/availabe for work_Persons,152.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,49.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,71.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Non-workers_Seeking/availabe for work_Persons,182.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Non-workers_Seeking/availabe for work_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Non-workers_Seeking/availabe for work_Persons,178.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,51.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,92.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Non-workers_Seeking/availabe for work_Persons,82.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Non-workers_Seeking/availabe for work_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Non-workers_Seeking/availabe for work_Persons,79.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,23.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,39.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Non-workers_Seeking/availabe for work_Persons,100.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Non-workers_Seeking/availabe for work_Persons,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Non-workers_Seeking/availabe for work_Persons,99.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,28.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,53.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Non-workers_Seeking/availabe for work_Males,134.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Non-workers_Seeking/availabe for work_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Non-workers_Seeking/availabe for work_Males,129.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,29.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,68.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Non-workers_Seeking/availabe for work_Males,57.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Non-workers_Seeking/availabe for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Non-workers_Seeking/availabe for work_Males,57.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Non-workers_Seeking/availabe for work_Males,77.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Non-workers_Seeking/availabe for work_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Non-workers_Seeking/availabe for work_Males,72.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,19.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,36.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Non-workers_Seeking/availabe for work_Males,80.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Non-workers_Seeking/availabe for work_Males,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Non-workers_Seeking/availabe for work_Males,76.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,14.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,41.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Non-workers_Seeking/availabe for work_Males,26.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Non-workers_Seeking/availabe for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Non-workers_Seeking/availabe for work_Males,26.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Non-workers_Seeking/availabe for work_Males,54.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Non-workers_Seeking/availabe for work_Males,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Non-workers_Seeking/availabe for work_Males,50.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,24.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Non-workers_Seeking/availabe for work_Males,54.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Non-workers_Seeking/availabe for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Non-workers_Seeking/availabe for work_Males,53.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,27.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Non-workers_Seeking/availabe for work_Males,31.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Non-workers_Seeking/availabe for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Non-workers_Seeking/availabe for work_Males,31.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Non-workers_Seeking/availabe for work_Males,23.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Non-workers_Seeking/availabe for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Non-workers_Seeking/availabe for work_Males,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,8.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Total,Non-workers_Seeking/availabe for work_Females,271.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Illiterate,Non-workers_Seeking/availabe for work_Females,15.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate,Non-workers_Seeking/availabe for work_Females,256.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,91.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,119.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,22.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Total,Non-workers_Seeking/availabe for work_Females,83.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Illiterate,Non-workers_Seeking/availabe for work_Females,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate,Non-workers_Seeking/availabe for work_Females,77.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,33.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,31.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,6.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Total,Non-workers_Seeking/availabe for work_Females,188.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Illiterate,Non-workers_Seeking/availabe for work_Females,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate,Non-workers_Seeking/availabe for work_Females,179.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,58.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,88.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,000,State - DAMAN & DIU,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Total,Non-workers_Seeking/availabe for work_Females,143.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Illiterate,Non-workers_Seeking/availabe for work_Females,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate,Non-workers_Seeking/availabe for work_Females,131.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,55.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,54.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,12.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Total,Non-workers_Seeking/availabe for work_Females,32.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Illiterate,Non-workers_Seeking/availabe for work_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate,Non-workers_Seeking/availabe for work_Females,29.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,17.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,7.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Total,Non-workers_Seeking/availabe for work_Females,111.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Illiterate,Non-workers_Seeking/availabe for work_Females,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate,Non-workers_Seeking/availabe for work_Females,102.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,38.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,47.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,11.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,494,District - Diu,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Total,Non-workers_Seeking/availabe for work_Females,128.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Illiterate,Non-workers_Seeking/availabe for work_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate,Non-workers_Seeking/availabe for work_Females,125.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,36.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,65.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,10.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,4.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Total,Non-workers_Seeking/availabe for work_Females,51.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Illiterate,Non-workers_Seeking/availabe for work_Females,3.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate,Non-workers_Seeking/availabe for work_Females,48.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,16.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,24.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,1.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,2.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Total,Non-workers_Seeking/availabe for work_Females,77.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Illiterate,Non-workers_Seeking/availabe for work_Females,0.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate,Non-workers_Seeking/availabe for work_Females,77.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,20.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,41.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,9.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,5.0,DDW-2500B-03SC.xlsx,03SC
+B0203SC,25,495,District - Daman,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,2.0,DDW-2500B-03SC.xlsx,03SC

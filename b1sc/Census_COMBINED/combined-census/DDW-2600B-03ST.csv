@@ -1,0 +1,865 @@
+table_name,state_code,district_code,area_name,total_rural_urban,educational_level,metric,value,source_file,dataset_code
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Population_Persons,178564.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Population_Persons,85805.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Population_Persons,92759.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Population_Persons,71322.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Population_Persons,12781.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Population_Persons,1199.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Population_Persons,1141.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,1091.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Population_Persons,150944.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Population_Persons,77362.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Population_Persons,73582.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Population_Persons,58617.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Population_Persons,8958.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Population_Persons,705.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Population_Persons,605.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,726.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Population_Persons,27620.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Population_Persons,8443.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Population_Persons,19177.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Population_Persons,12705.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Population_Persons,3823.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Population_Persons,494.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Population_Persons,536.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,365.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Population_Persons,178564.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Population_Persons,85805.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Population_Persons,92759.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Population_Persons,71322.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Population_Persons,12781.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Population_Persons,1199.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Population_Persons,1141.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,1091.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Population_Persons,150944.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Population_Persons,77362.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Population_Persons,73582.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Population_Persons,58617.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Population_Persons,8958.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Population_Persons,705.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Population_Persons,605.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,726.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Population_Persons,27620.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Population_Persons,8443.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Population_Persons,19177.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Population_Persons,12705.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Population_Persons,3823.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Population_Persons,494.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Population_Persons,536.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,365.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Population_Males,88844.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Population_Males,34087.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Population_Males,54757.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Population_Males,40912.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Population_Males,8479.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Population_Males,772.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Population_Males,759.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,653.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Population_Males,75049.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Population_Males,30863.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Population_Males,44186.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Population_Males,34055.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Population_Males,6192.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Population_Males,484.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Population_Males,445.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,483.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Population_Males,13795.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Population_Males,3224.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Population_Males,10571.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Population_Males,6857.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Population_Males,2287.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Population_Males,288.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Population_Males,314.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,170.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Population_Males,88844.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Population_Males,34087.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Population_Males,54757.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Population_Males,40912.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Population_Males,8479.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Population_Males,772.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Population_Males,759.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,653.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Population_Males,75049.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Population_Males,30863.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Population_Males,44186.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Population_Males,34055.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Population_Males,6192.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Population_Males,484.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Population_Males,445.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,483.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Population_Males,13795.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Population_Males,3224.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Population_Males,10571.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Population_Males,6857.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Population_Males,2287.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Population_Males,288.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Population_Males,314.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,170.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Population_Females,89720.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Population_Females,51718.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Population_Females,38002.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Population_Females,30410.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Population_Females,4302.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Population_Females,427.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Population_Females,382.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,438.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Population_Females,75895.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Population_Females,46499.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Population_Females,29396.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Population_Females,24562.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Population_Females,2766.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Population_Females,221.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Population_Females,160.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,243.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Population_Females,13825.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Population_Females,5219.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Population_Females,8606.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Population_Females,5848.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Population_Females,1536.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Population_Females,206.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Population_Females,222.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,195.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Population_Females,89720.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Population_Females,51718.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Population_Females,38002.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Population_Females,30410.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Population_Females,4302.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Population_Females,427.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Population_Females,382.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,438.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Population_Females,75895.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Population_Females,46499.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Population_Females,29396.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Population_Females,24562.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Population_Females,2766.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Population_Females,221.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Population_Females,160.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,243.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Population_Females,13825.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Population_Females,5219.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Population_Females,8606.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Population_Females,5848.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Population_Females,1536.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Population_Females,206.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Population_Females,222.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,195.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Main workers_Persons,53056.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Main workers_Persons,24108.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Main workers_Persons,28948.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Main workers_Persons,19256.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Main workers_Persons,5306.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Main workers_Persons,670.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Main workers_Persons,661.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,615.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Main workers_Persons,43987.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Main workers_Persons,22405.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Main workers_Persons,21582.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Main workers_Persons,14926.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Main workers_Persons,3690.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Main workers_Persons,374.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Main workers_Persons,326.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,400.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Main workers_Persons,9069.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Main workers_Persons,1703.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Main workers_Persons,7366.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Main workers_Persons,4330.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Main workers_Persons,1616.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Main workers_Persons,296.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Main workers_Persons,335.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,215.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Main workers_Persons,53056.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Main workers_Persons,24108.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Main workers_Persons,28948.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Main workers_Persons,19256.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Main workers_Persons,5306.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Main workers_Persons,670.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Main workers_Persons,661.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,615.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Main workers_Persons,43987.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Main workers_Persons,22405.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Main workers_Persons,21582.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Main workers_Persons,14926.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Main workers_Persons,3690.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Main workers_Persons,374.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Main workers_Persons,326.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,400.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Main workers_Persons,9069.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Main workers_Persons,1703.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Main workers_Persons,7366.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Main workers_Persons,4330.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Main workers_Persons,1616.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Main workers_Persons,296.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Main workers_Persons,335.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,215.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Main workers_Males,37889.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Main workers_Males,14309.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Main workers_Males,23580.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Main workers_Males,15672.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Main workers_Males,4504.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Main workers_Males,505.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Main workers_Males,533.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,410.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Main workers_Males,31092.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Main workers_Males,13381.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Main workers_Males,17711.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Main workers_Males,12218.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Main workers_Males,3121.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Main workers_Males,295.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Main workers_Males,276.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,293.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Main workers_Males,6797.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Main workers_Males,928.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Main workers_Males,5869.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Main workers_Males,3454.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Main workers_Males,1383.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Main workers_Males,210.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Main workers_Males,257.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,117.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Main workers_Males,37889.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Main workers_Males,14309.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Main workers_Males,23580.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Main workers_Males,15672.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Main workers_Males,4504.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Main workers_Males,505.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Main workers_Males,533.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,410.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Main workers_Males,31092.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Main workers_Males,13381.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Main workers_Males,17711.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Main workers_Males,12218.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Main workers_Males,3121.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Main workers_Males,295.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Main workers_Males,276.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,293.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Main workers_Males,6797.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Main workers_Males,928.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Main workers_Males,5869.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Main workers_Males,3454.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Main workers_Males,1383.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Main workers_Males,210.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Main workers_Males,257.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,117.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Main workers_Females,15167.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Main workers_Females,9799.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Main workers_Females,5368.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Main workers_Females,3584.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Main workers_Females,802.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Main workers_Females,165.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Main workers_Females,128.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,205.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Main workers_Females,12895.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Main workers_Females,9024.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Main workers_Females,3871.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Main workers_Females,2708.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Main workers_Females,569.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Main workers_Females,79.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Main workers_Females,50.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,107.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Main workers_Females,2272.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Main workers_Females,775.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Main workers_Females,1497.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Main workers_Females,876.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Main workers_Females,233.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Main workers_Females,86.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Main workers_Females,78.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,98.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Main workers_Females,15167.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Main workers_Females,9799.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Main workers_Females,5368.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Main workers_Females,3584.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Main workers_Females,802.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Main workers_Females,165.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Main workers_Females,128.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,205.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Main workers_Females,12895.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Main workers_Females,9024.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Main workers_Females,3871.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Main workers_Females,2708.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Main workers_Females,569.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Main workers_Females,79.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Main workers_Females,50.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,107.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Main workers_Females,2272.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Main workers_Females,775.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Main workers_Females,1497.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Main workers_Females,876.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Main workers_Females,233.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Main workers_Females,86.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Main workers_Females,78.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,98.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Marginal workers_Total_Persons,21040.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Marginal workers_Total_Persons,13129.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Marginal workers_Total_Persons,7911.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Marginal workers_Total_Persons,5855.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Marginal workers_Total_Persons,966.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,83.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Marginal workers_Total_Persons,64.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,87.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Marginal workers_Total_Persons,19606.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Marginal workers_Total_Persons,12598.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Marginal workers_Total_Persons,7008.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Marginal workers_Total_Persons,5274.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Marginal workers_Total_Persons,803.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,61.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Marginal workers_Total_Persons,46.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,70.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Marginal workers_Total_Persons,1434.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Marginal workers_Total_Persons,531.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Marginal workers_Total_Persons,903.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Marginal workers_Total_Persons,581.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Marginal workers_Total_Persons,163.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,22.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Marginal workers_Total_Persons,18.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,17.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Marginal workers_Total_Persons,21040.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Marginal workers_Total_Persons,13129.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Marginal workers_Total_Persons,7911.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Marginal workers_Total_Persons,5855.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Marginal workers_Total_Persons,966.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,83.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Marginal workers_Total_Persons,64.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,87.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Marginal workers_Total_Persons,19606.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Marginal workers_Total_Persons,12598.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Marginal workers_Total_Persons,7008.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Marginal workers_Total_Persons,5274.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Marginal workers_Total_Persons,803.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,61.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Marginal workers_Total_Persons,46.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,70.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Marginal workers_Total_Persons,1434.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Marginal workers_Total_Persons,531.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Marginal workers_Total_Persons,903.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Marginal workers_Total_Persons,581.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Marginal workers_Total_Persons,163.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,22.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Marginal workers_Total_Persons,18.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,17.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Marginal workers_Total_Males,6309.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Marginal workers_Total_Males,2493.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Marginal workers_Total_Males,3816.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Marginal workers_Total_Males,2682.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Marginal workers_Total_Males,540.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,53.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Marginal workers_Total_Males,36.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,52.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Marginal workers_Total_Males,5798.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Marginal workers_Total_Males,2383.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Marginal workers_Total_Males,3415.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Marginal workers_Total_Males,2441.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Marginal workers_Total_Males,460.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,41.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Marginal workers_Total_Males,28.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,46.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Marginal workers_Total_Males,511.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Marginal workers_Total_Males,110.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Marginal workers_Total_Males,401.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Marginal workers_Total_Males,241.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Marginal workers_Total_Males,80.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,12.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Marginal workers_Total_Males,8.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,6.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Marginal workers_Total_Males,6309.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Marginal workers_Total_Males,2493.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Marginal workers_Total_Males,3816.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Marginal workers_Total_Males,2682.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Marginal workers_Total_Males,540.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,53.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Marginal workers_Total_Males,36.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,52.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Marginal workers_Total_Males,5798.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Marginal workers_Total_Males,2383.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Marginal workers_Total_Males,3415.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Marginal workers_Total_Males,2441.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Marginal workers_Total_Males,460.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,41.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Marginal workers_Total_Males,28.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,46.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Marginal workers_Total_Males,511.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Marginal workers_Total_Males,110.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Marginal workers_Total_Males,401.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Marginal workers_Total_Males,241.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Marginal workers_Total_Males,80.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,12.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Marginal workers_Total_Males,8.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,6.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Marginal workers_Total_Females,14731.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Marginal workers_Total_Females,10636.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Marginal workers_Total_Females,4095.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Marginal workers_Total_Females,3173.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Marginal workers_Total_Females,426.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,30.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Marginal workers_Total_Females,28.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,35.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Marginal workers_Total_Females,13808.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Marginal workers_Total_Females,10215.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Marginal workers_Total_Females,3593.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Marginal workers_Total_Females,2833.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Marginal workers_Total_Females,343.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,20.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Marginal workers_Total_Females,18.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,24.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Marginal workers_Total_Females,923.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Marginal workers_Total_Females,421.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Marginal workers_Total_Females,502.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Marginal workers_Total_Females,340.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Marginal workers_Total_Females,83.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,10.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Marginal workers_Total_Females,10.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,11.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Marginal workers_Total_Females,14731.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Marginal workers_Total_Females,10636.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Marginal workers_Total_Females,4095.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Marginal workers_Total_Females,3173.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Marginal workers_Total_Females,426.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,30.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Marginal workers_Total_Females,28.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,35.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Marginal workers_Total_Females,13808.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Marginal workers_Total_Females,10215.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Marginal workers_Total_Females,3593.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Marginal workers_Total_Females,2833.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Marginal workers_Total_Females,343.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,20.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Marginal workers_Total_Females,18.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,24.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Marginal workers_Total_Females,923.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Marginal workers_Total_Females,421.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Marginal workers_Total_Females,502.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Marginal workers_Total_Females,340.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Marginal workers_Total_Females,83.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,10.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Marginal workers_Total_Females,10.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,11.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Marginal workers_Seeking/available for work_Persons,4483.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Marginal workers_Seeking/available for work_Persons,2365.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Marginal workers_Seeking/available for work_Persons,2118.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,1475.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,279.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,51.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,17.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,57.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Marginal workers_Seeking/available for work_Persons,4194.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Marginal workers_Seeking/available for work_Persons,2290.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Marginal workers_Seeking/available for work_Persons,1904.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,1358.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,229.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,39.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,13.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,45.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Marginal workers_Seeking/available for work_Persons,289.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Marginal workers_Seeking/available for work_Persons,75.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Marginal workers_Seeking/available for work_Persons,214.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,117.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,50.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,12.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,4.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,12.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Marginal workers_Seeking/available for work_Persons,4483.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Marginal workers_Seeking/available for work_Persons,2365.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Marginal workers_Seeking/available for work_Persons,2118.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,1475.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,279.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,51.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,17.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,57.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Marginal workers_Seeking/available for work_Persons,4194.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Marginal workers_Seeking/available for work_Persons,2290.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Marginal workers_Seeking/available for work_Persons,1904.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,1358.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,229.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,39.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,13.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,45.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Marginal workers_Seeking/available for work_Persons,289.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Marginal workers_Seeking/available for work_Persons,75.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Marginal workers_Seeking/available for work_Persons,214.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,117.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,50.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,12.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,4.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,12.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Marginal workers_Seeking/available for work_Males,2156.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Marginal workers_Seeking/available for work_Males,821.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Marginal workers_Seeking/available for work_Males,1335.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,904.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,189.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,34.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,9.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,33.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Marginal workers_Seeking/available for work_Males,1986.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Marginal workers_Seeking/available for work_Males,788.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Marginal workers_Seeking/available for work_Males,1198.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,823.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,159.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,28.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,9.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,29.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Marginal workers_Seeking/available for work_Males,170.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Marginal workers_Seeking/available for work_Males,33.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Marginal workers_Seeking/available for work_Males,137.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,81.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,30.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,6.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,4.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Marginal workers_Seeking/available for work_Males,2156.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Marginal workers_Seeking/available for work_Males,821.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Marginal workers_Seeking/available for work_Males,1335.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,904.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,189.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,34.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,9.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,33.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Marginal workers_Seeking/available for work_Males,1986.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Marginal workers_Seeking/available for work_Males,788.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Marginal workers_Seeking/available for work_Males,1198.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,823.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,159.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,28.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,9.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,29.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Marginal workers_Seeking/available for work_Males,170.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Marginal workers_Seeking/available for work_Males,33.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Marginal workers_Seeking/available for work_Males,137.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,81.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,30.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,6.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,0.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,4.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Marginal workers_Seeking/available for work_Females,2327.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Marginal workers_Seeking/available for work_Females,1544.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Marginal workers_Seeking/available for work_Females,783.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,571.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,90.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,17.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,8.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,24.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Marginal workers_Seeking/available for work_Females,2208.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Marginal workers_Seeking/available for work_Females,1502.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Marginal workers_Seeking/available for work_Females,706.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,535.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,70.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,11.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,4.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,16.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Marginal workers_Seeking/available for work_Females,119.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Marginal workers_Seeking/available for work_Females,42.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Marginal workers_Seeking/available for work_Females,77.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,36.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,20.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,6.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,4.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,8.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Marginal workers_Seeking/available for work_Females,2327.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Marginal workers_Seeking/available for work_Females,1544.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Marginal workers_Seeking/available for work_Females,783.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,571.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,90.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,17.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,8.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,24.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Marginal workers_Seeking/available for work_Females,2208.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Marginal workers_Seeking/available for work_Females,1502.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Marginal workers_Seeking/available for work_Females,706.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,535.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,70.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,11.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,4.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,16.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Marginal workers_Seeking/available for work_Females,119.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Marginal workers_Seeking/available for work_Females,42.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Marginal workers_Seeking/available for work_Females,77.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,36.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,20.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,6.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,4.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,8.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Non-workers_Total_Persons,104468.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Non-workers_Total_Persons,48568.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Non-workers_Total_Persons,55900.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Non-workers_Total_Persons,46211.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Non-workers_Total_Persons,6509.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,446.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Non-workers_Total_Persons,416.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,389.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Non-workers_Total_Persons,87351.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Non-workers_Total_Persons,42359.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Non-workers_Total_Persons,44992.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Non-workers_Total_Persons,38417.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Non-workers_Total_Persons,4465.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,270.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Non-workers_Total_Persons,233.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,256.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Non-workers_Total_Persons,17117.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Non-workers_Total_Persons,6209.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Non-workers_Total_Persons,10908.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Non-workers_Total_Persons,7794.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Non-workers_Total_Persons,2044.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,176.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Non-workers_Total_Persons,183.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,133.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Non-workers_Total_Persons,104468.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Non-workers_Total_Persons,48568.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Non-workers_Total_Persons,55900.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Non-workers_Total_Persons,46211.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Non-workers_Total_Persons,6509.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,446.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Non-workers_Total_Persons,416.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,389.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Non-workers_Total_Persons,87351.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Non-workers_Total_Persons,42359.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Non-workers_Total_Persons,44992.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Non-workers_Total_Persons,38417.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Non-workers_Total_Persons,4465.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,270.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Non-workers_Total_Persons,233.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,256.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Non-workers_Total_Persons,17117.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Non-workers_Total_Persons,6209.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Non-workers_Total_Persons,10908.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Non-workers_Total_Persons,7794.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Non-workers_Total_Persons,2044.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,176.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Non-workers_Total_Persons,183.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,133.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Non-workers_Total_Males,44646.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Non-workers_Total_Males,17285.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Non-workers_Total_Males,27361.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Non-workers_Total_Males,22558.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Non-workers_Total_Males,3435.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,214.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Non-workers_Total_Males,190.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,191.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Non-workers_Total_Males,38159.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Non-workers_Total_Males,15099.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Non-workers_Total_Males,23060.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Non-workers_Total_Males,19396.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Non-workers_Total_Males,2611.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,148.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Non-workers_Total_Males,141.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,144.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Non-workers_Total_Males,6487.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Non-workers_Total_Males,2186.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Non-workers_Total_Males,4301.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Non-workers_Total_Males,3162.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Non-workers_Total_Males,824.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,66.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Non-workers_Total_Males,49.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,47.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Non-workers_Total_Males,44646.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Non-workers_Total_Males,17285.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Non-workers_Total_Males,27361.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Non-workers_Total_Males,22558.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Non-workers_Total_Males,3435.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,214.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Non-workers_Total_Males,190.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,191.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Non-workers_Total_Males,38159.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Non-workers_Total_Males,15099.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Non-workers_Total_Males,23060.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Non-workers_Total_Males,19396.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Non-workers_Total_Males,2611.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,148.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Non-workers_Total_Males,141.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,144.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Non-workers_Total_Males,6487.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Non-workers_Total_Males,2186.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Non-workers_Total_Males,4301.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Non-workers_Total_Males,3162.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Non-workers_Total_Males,824.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,66.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Non-workers_Total_Males,49.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,47.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Non-workers_Total_Females,59822.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Non-workers_Total_Females,31283.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Non-workers_Total_Females,28539.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Non-workers_Total_Females,23653.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Non-workers_Total_Females,3074.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,232.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Non-workers_Total_Females,226.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,198.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Non-workers_Total_Females,49192.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Non-workers_Total_Females,27260.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Non-workers_Total_Females,21932.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Non-workers_Total_Females,19021.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Non-workers_Total_Females,1854.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,122.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Non-workers_Total_Females,92.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,112.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Non-workers_Total_Females,10630.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Non-workers_Total_Females,4023.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Non-workers_Total_Females,6607.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Non-workers_Total_Females,4632.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Non-workers_Total_Females,1220.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,110.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Non-workers_Total_Females,134.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,86.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Non-workers_Total_Females,59822.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Non-workers_Total_Females,31283.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Non-workers_Total_Females,28539.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Non-workers_Total_Females,23653.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Non-workers_Total_Females,3074.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,232.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Non-workers_Total_Females,226.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,198.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Non-workers_Total_Females,49192.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Non-workers_Total_Females,27260.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Non-workers_Total_Females,21932.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Non-workers_Total_Females,19021.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Non-workers_Total_Females,1854.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,122.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Non-workers_Total_Females,92.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,112.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Non-workers_Total_Females,10630.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Non-workers_Total_Females,4023.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Non-workers_Total_Females,6607.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Non-workers_Total_Females,4632.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Non-workers_Total_Females,1220.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,110.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Non-workers_Total_Females,134.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,86.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Non-workers_Seeking/availabe for work_Persons,4289.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Non-workers_Seeking/availabe for work_Persons,1466.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Non-workers_Seeking/availabe for work_Persons,2823.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,1541.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,647.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,137.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,109.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,194.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Non-workers_Seeking/availabe for work_Persons,3383.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Non-workers_Seeking/availabe for work_Persons,1315.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Non-workers_Seeking/availabe for work_Persons,2068.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,1179.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,452.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,90.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,65.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,139.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Non-workers_Seeking/availabe for work_Persons,906.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Non-workers_Seeking/availabe for work_Persons,151.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Non-workers_Seeking/availabe for work_Persons,755.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,362.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,195.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,47.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,44.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,55.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Non-workers_Seeking/availabe for work_Persons,4289.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Non-workers_Seeking/availabe for work_Persons,1466.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Non-workers_Seeking/availabe for work_Persons,2823.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,1541.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,647.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,137.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,109.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,194.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Non-workers_Seeking/availabe for work_Persons,3383.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Non-workers_Seeking/availabe for work_Persons,1315.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Non-workers_Seeking/availabe for work_Persons,2068.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,1179.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,452.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,90.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,65.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,139.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Non-workers_Seeking/availabe for work_Persons,906.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Non-workers_Seeking/availabe for work_Persons,151.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Non-workers_Seeking/availabe for work_Persons,755.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,362.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,195.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,47.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,44.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,55.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Non-workers_Seeking/availabe for work_Males,1628.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Non-workers_Seeking/availabe for work_Males,200.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Non-workers_Seeking/availabe for work_Males,1428.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,744.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,380.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,60.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,53.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,95.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Non-workers_Seeking/availabe for work_Males,1252.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Non-workers_Seeking/availabe for work_Males,167.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Non-workers_Seeking/availabe for work_Males,1085.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,575.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,280.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,47.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,39.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,77.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Non-workers_Seeking/availabe for work_Males,376.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Non-workers_Seeking/availabe for work_Males,33.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Non-workers_Seeking/availabe for work_Males,343.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,169.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,100.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,13.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,14.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,18.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Non-workers_Seeking/availabe for work_Males,1628.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Non-workers_Seeking/availabe for work_Males,200.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Non-workers_Seeking/availabe for work_Males,1428.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,744.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,380.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,60.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,53.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,95.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Non-workers_Seeking/availabe for work_Males,1252.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Non-workers_Seeking/availabe for work_Males,167.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Non-workers_Seeking/availabe for work_Males,1085.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,575.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,280.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,47.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,39.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,77.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Non-workers_Seeking/availabe for work_Males,376.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Non-workers_Seeking/availabe for work_Males,33.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Non-workers_Seeking/availabe for work_Males,343.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,169.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,100.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,13.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,14.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,18.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Total,Non-workers_Seeking/availabe for work_Females,2661.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Illiterate,Non-workers_Seeking/availabe for work_Females,1266.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate,Non-workers_Seeking/availabe for work_Females,1395.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,797.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,267.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,77.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,56.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,99.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Total,Non-workers_Seeking/availabe for work_Females,2131.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Illiterate,Non-workers_Seeking/availabe for work_Females,1148.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate,Non-workers_Seeking/availabe for work_Females,983.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,604.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,172.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,43.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,26.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,62.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Total,Non-workers_Seeking/availabe for work_Females,530.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Illiterate,Non-workers_Seeking/availabe for work_Females,118.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate,Non-workers_Seeking/availabe for work_Females,412.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,193.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,95.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,34.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,30.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,000,State - DADRA & NAGAR HAVELI,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,37.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Total,Non-workers_Seeking/availabe for work_Females,2661.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Illiterate,Non-workers_Seeking/availabe for work_Females,1266.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate,Non-workers_Seeking/availabe for work_Females,1395.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,797.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,267.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,77.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,56.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,99.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Total,Non-workers_Seeking/availabe for work_Females,2131.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Illiterate,Non-workers_Seeking/availabe for work_Females,1148.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate,Non-workers_Seeking/availabe for work_Females,983.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,604.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,172.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,43.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,26.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,62.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Total,Non-workers_Seeking/availabe for work_Females,530.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Illiterate,Non-workers_Seeking/availabe for work_Females,118.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate,Non-workers_Seeking/availabe for work_Females,412.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,193.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,95.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,34.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,30.0,DDW-2600B-03ST.xlsx,03ST
+B0303ST,26,496,District - Dadra & Nagar Haveli,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,37.0,DDW-2600B-03ST.xlsx,03ST

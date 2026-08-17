@@ -1,0 +1,865 @@
+table_name,state_code,district_code,area_name,total_rural_urban,educational_level,metric,value,source_file,dataset_code
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Population_Persons,61120.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Population_Persons,11544.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Population_Persons,49576.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Population_Persons,31948.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Population_Persons,12262.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Population_Persons,800.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Population_Persons,1318.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,668.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Population_Persons,13463.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Population_Persons,2746.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Population_Persons,10717.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Population_Persons,7024.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Population_Persons,2396.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Population_Persons,250.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Population_Persons,196.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,126.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Population_Persons,47657.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Population_Persons,8798.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Population_Persons,38859.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Population_Persons,24924.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Population_Persons,9866.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Population_Persons,550.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Population_Persons,1122.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,542.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Population_Persons,61120.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Population_Persons,11544.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Population_Persons,49576.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Population_Persons,31948.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Population_Persons,12262.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Population_Persons,800.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Population_Persons,1318.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,668.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Population_Persons,13463.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Population_Persons,2746.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Population_Persons,10717.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Population_Persons,7024.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Population_Persons,2396.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Population_Persons,250.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Population_Persons,196.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,126.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Population_Persons,47657.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Population_Persons,8798.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Population_Persons,38859.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Population_Persons,24924.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Population_Persons,9866.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Population_Persons,550.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Population_Persons,1122.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Persons,542.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Population_Males,30515.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Population_Males,4854.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Population_Males,25661.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Population_Males,15734.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Population_Males,7064.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Population_Males,502.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Population_Males,801.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,423.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Population_Males,6752.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Population_Males,1228.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Population_Males,5524.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Population_Males,3412.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Population_Males,1378.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Population_Males,156.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Population_Males,145.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,82.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Population_Males,23763.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Population_Males,3626.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Population_Males,20137.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Population_Males,12322.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Population_Males,5686.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Population_Males,346.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Population_Males,656.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,341.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Population_Males,30515.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Population_Males,4854.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Population_Males,25661.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Population_Males,15734.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Population_Males,7064.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Population_Males,502.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Population_Males,801.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,423.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Population_Males,6752.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Population_Males,1228.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Population_Males,5524.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Population_Males,3412.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Population_Males,1378.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Population_Males,156.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Population_Males,145.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,82.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Population_Males,23763.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Population_Males,3626.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Population_Males,20137.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Population_Males,12322.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Population_Males,5686.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Population_Males,346.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Population_Males,656.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Males,341.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Population_Females,30605.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Population_Females,6690.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Population_Females,23915.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Population_Females,16214.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Population_Females,5198.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Population_Females,298.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Population_Females,517.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,245.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Population_Females,6711.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Population_Females,1518.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Population_Females,5193.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Population_Females,3612.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Population_Females,1018.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Population_Females,94.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Population_Females,51.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,44.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Population_Females,23894.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Population_Females,5172.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Population_Females,18722.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Population_Females,12602.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Population_Females,4180.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Population_Females,204.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Population_Females,466.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,201.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Population_Females,30605.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Population_Females,6690.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Population_Females,23915.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Population_Females,16214.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Population_Females,5198.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Population_Females,298.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Population_Females,517.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,245.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Population_Females,6711.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Population_Females,1518.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Population_Females,5193.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Population_Females,3612.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Population_Females,1018.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Population_Females,94.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Population_Females,51.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,44.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Population_Females,23894.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Population_Females,5172.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Population_Females,18722.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Population_Females,12602.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Population_Females,4180.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Population_Females,204.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Population_Females,466.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Population_Females,201.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Main workers_Persons,9219.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Main workers_Persons,147.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Main workers_Persons,9072.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Main workers_Persons,4145.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Main workers_Persons,3073.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Main workers_Persons,498.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Main workers_Persons,562.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,387.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Main workers_Persons,1923.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Main workers_Persons,25.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Main workers_Persons,1898.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Main workers_Persons,808.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Main workers_Persons,612.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Main workers_Persons,165.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Main workers_Persons,104.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,79.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Main workers_Persons,7296.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Main workers_Persons,122.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Main workers_Persons,7174.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Main workers_Persons,3337.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Main workers_Persons,2461.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Main workers_Persons,333.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Main workers_Persons,458.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,308.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Main workers_Persons,9219.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Main workers_Persons,147.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Main workers_Persons,9072.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Main workers_Persons,4145.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Main workers_Persons,3073.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Main workers_Persons,498.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Main workers_Persons,562.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,387.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Main workers_Persons,1923.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Main workers_Persons,25.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Main workers_Persons,1898.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Main workers_Persons,808.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Main workers_Persons,612.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Main workers_Persons,165.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Main workers_Persons,104.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,79.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Main workers_Persons,7296.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Main workers_Persons,122.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Main workers_Persons,7174.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Main workers_Persons,3337.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Main workers_Persons,2461.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Main workers_Persons,333.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Main workers_Persons,458.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Persons,308.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Main workers_Males,7623.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Main workers_Males,107.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Main workers_Males,7516.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Main workers_Males,3703.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Main workers_Males,2458.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Main workers_Males,330.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Main workers_Males,422.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,279.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Main workers_Males,1587.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Main workers_Males,18.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Main workers_Males,1569.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Main workers_Males,702.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Main workers_Males,503.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Main workers_Males,110.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Main workers_Males,85.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,62.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Main workers_Males,6036.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Main workers_Males,89.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Main workers_Males,5947.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Main workers_Males,3001.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Main workers_Males,1955.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Main workers_Males,220.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Main workers_Males,337.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,217.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Main workers_Males,7623.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Main workers_Males,107.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Main workers_Males,7516.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Main workers_Males,3703.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Main workers_Males,2458.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Main workers_Males,330.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Main workers_Males,422.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,279.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Main workers_Males,1587.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Main workers_Males,18.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Main workers_Males,1569.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Main workers_Males,702.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Main workers_Males,503.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Main workers_Males,110.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Main workers_Males,85.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,62.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Main workers_Males,6036.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Main workers_Males,89.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Main workers_Males,5947.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Main workers_Males,3001.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Main workers_Males,1955.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Main workers_Males,220.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Main workers_Males,337.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Males,217.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Main workers_Females,1596.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Main workers_Females,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Main workers_Females,1556.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Main workers_Females,442.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Main workers_Females,615.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Main workers_Females,168.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Main workers_Females,140.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,108.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Main workers_Females,336.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Main workers_Females,7.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Main workers_Females,329.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Main workers_Females,106.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Main workers_Females,109.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Main workers_Females,55.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Main workers_Females,19.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,17.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Main workers_Females,1260.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Main workers_Females,33.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Main workers_Females,1227.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Main workers_Females,336.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Main workers_Females,506.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Main workers_Females,113.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Main workers_Females,121.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,91.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Main workers_Females,1596.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Main workers_Females,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Main workers_Females,1556.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Main workers_Females,442.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Main workers_Females,615.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Main workers_Females,168.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Main workers_Females,140.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,108.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Main workers_Females,336.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Main workers_Females,7.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Main workers_Females,329.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Main workers_Females,106.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Main workers_Females,109.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Main workers_Females,55.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Main workers_Females,19.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,17.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Main workers_Females,1260.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Main workers_Females,33.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Main workers_Females,1227.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Main workers_Females,336.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Main workers_Females,506.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Main workers_Females,113.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Main workers_Females,121.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Main workers_Females,91.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Marginal workers_Total_Persons,7183.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Marginal workers_Total_Persons,258.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Marginal workers_Total_Persons,6925.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Marginal workers_Total_Persons,4381.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Marginal workers_Total_Persons,1695.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,110.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Marginal workers_Total_Persons,202.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,89.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Marginal workers_Total_Persons,2302.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Marginal workers_Total_Persons,86.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Marginal workers_Total_Persons,2216.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Marginal workers_Total_Persons,1387.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Marginal workers_Total_Persons,507.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Marginal workers_Total_Persons,41.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,20.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Marginal workers_Total_Persons,4881.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Marginal workers_Total_Persons,172.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Marginal workers_Total_Persons,4709.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Marginal workers_Total_Persons,2994.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Marginal workers_Total_Persons,1188.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,70.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Marginal workers_Total_Persons,161.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,69.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Marginal workers_Total_Persons,7183.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Marginal workers_Total_Persons,258.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Marginal workers_Total_Persons,6925.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Marginal workers_Total_Persons,4381.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Marginal workers_Total_Persons,1695.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,110.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Marginal workers_Total_Persons,202.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,89.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Marginal workers_Total_Persons,2302.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Marginal workers_Total_Persons,86.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Marginal workers_Total_Persons,2216.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Marginal workers_Total_Persons,1387.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Marginal workers_Total_Persons,507.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Marginal workers_Total_Persons,41.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,20.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Marginal workers_Total_Persons,4881.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Marginal workers_Total_Persons,172.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Marginal workers_Total_Persons,4709.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Marginal workers_Total_Persons,2994.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Marginal workers_Total_Persons,1188.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Persons,70.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Marginal workers_Total_Persons,161.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Persons,69.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Marginal workers_Total_Males,5451.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Marginal workers_Total_Males,155.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Marginal workers_Total_Males,5296.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Marginal workers_Total_Males,3412.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Marginal workers_Total_Males,1310.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,68.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Marginal workers_Total_Males,126.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,44.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Marginal workers_Total_Males,1793.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Marginal workers_Total_Males,50.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Marginal workers_Total_Males,1743.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Marginal workers_Total_Males,1100.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Marginal workers_Total_Males,408.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,24.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Marginal workers_Total_Males,29.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,11.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Marginal workers_Total_Males,3658.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Marginal workers_Total_Males,105.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Marginal workers_Total_Males,3553.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Marginal workers_Total_Males,2312.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Marginal workers_Total_Males,902.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,44.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Marginal workers_Total_Males,97.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,33.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Marginal workers_Total_Males,5451.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Marginal workers_Total_Males,155.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Marginal workers_Total_Males,5296.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Marginal workers_Total_Males,3412.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Marginal workers_Total_Males,1310.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,68.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Marginal workers_Total_Males,126.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,44.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Marginal workers_Total_Males,1793.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Marginal workers_Total_Males,50.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Marginal workers_Total_Males,1743.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Marginal workers_Total_Males,1100.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Marginal workers_Total_Males,408.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,24.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Marginal workers_Total_Males,29.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,11.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Marginal workers_Total_Males,3658.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Marginal workers_Total_Males,105.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Marginal workers_Total_Males,3553.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Marginal workers_Total_Males,2312.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Marginal workers_Total_Males,902.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Males,44.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Marginal workers_Total_Males,97.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Males,33.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Marginal workers_Total_Females,1732.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Marginal workers_Total_Females,103.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Marginal workers_Total_Females,1629.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Marginal workers_Total_Females,969.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Marginal workers_Total_Females,385.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,42.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Marginal workers_Total_Females,76.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,45.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Marginal workers_Total_Females,509.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Marginal workers_Total_Females,36.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Marginal workers_Total_Females,473.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Marginal workers_Total_Females,287.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Marginal workers_Total_Females,99.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,16.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Marginal workers_Total_Females,12.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,9.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Marginal workers_Total_Females,1223.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Marginal workers_Total_Females,67.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Marginal workers_Total_Females,1156.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Marginal workers_Total_Females,682.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Marginal workers_Total_Females,286.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,26.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Marginal workers_Total_Females,64.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,36.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Marginal workers_Total_Females,1732.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Marginal workers_Total_Females,103.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Marginal workers_Total_Females,1629.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Marginal workers_Total_Females,969.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Marginal workers_Total_Females,385.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,42.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Marginal workers_Total_Females,76.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,45.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Marginal workers_Total_Females,509.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Marginal workers_Total_Females,36.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Marginal workers_Total_Females,473.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Marginal workers_Total_Females,287.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Marginal workers_Total_Females,99.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,16.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Marginal workers_Total_Females,12.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,9.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Marginal workers_Total_Females,1223.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Marginal workers_Total_Females,67.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Marginal workers_Total_Females,1156.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Marginal workers_Total_Females,682.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Marginal workers_Total_Females,286.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Total_Females,26.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Marginal workers_Total_Females,64.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Total_Females,36.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Marginal workers_Seeking/available for work_Persons,5922.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Marginal workers_Seeking/available for work_Persons,166.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Marginal workers_Seeking/available for work_Persons,5756.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,3502.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,1526.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,103.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,188.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,81.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Marginal workers_Seeking/available for work_Persons,2108.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Marginal workers_Seeking/available for work_Persons,68.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Marginal workers_Seeking/available for work_Persons,2040.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,1266.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,477.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,37.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,17.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Marginal workers_Seeking/available for work_Persons,3814.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Marginal workers_Seeking/available for work_Persons,98.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Marginal workers_Seeking/available for work_Persons,3716.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,2236.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,1049.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,66.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,148.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,64.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Marginal workers_Seeking/available for work_Persons,5922.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Marginal workers_Seeking/available for work_Persons,166.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Marginal workers_Seeking/available for work_Persons,5756.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,3502.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,1526.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,103.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,188.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,81.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Marginal workers_Seeking/available for work_Persons,2108.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Marginal workers_Seeking/available for work_Persons,68.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Marginal workers_Seeking/available for work_Persons,2040.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,1266.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,477.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,37.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,17.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Marginal workers_Seeking/available for work_Persons,3814.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Marginal workers_Seeking/available for work_Persons,98.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Marginal workers_Seeking/available for work_Persons,3716.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Persons,2236.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Persons,1049.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Persons,66.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Persons,148.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Persons,64.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Marginal workers_Seeking/available for work_Males,4488.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Marginal workers_Seeking/available for work_Males,99.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Marginal workers_Seeking/available for work_Males,4389.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,2714.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,1188.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,63.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,117.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,41.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Marginal workers_Seeking/available for work_Males,1639.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Marginal workers_Seeking/available for work_Males,41.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Marginal workers_Seeking/available for work_Males,1598.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,996.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,387.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,21.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,28.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,9.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Marginal workers_Seeking/available for work_Males,2849.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Marginal workers_Seeking/available for work_Males,58.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Marginal workers_Seeking/available for work_Males,2791.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,1718.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,801.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,42.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,89.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,32.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Marginal workers_Seeking/available for work_Males,4488.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Marginal workers_Seeking/available for work_Males,99.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Marginal workers_Seeking/available for work_Males,4389.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,2714.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,1188.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,63.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,117.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,41.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Marginal workers_Seeking/available for work_Males,1639.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Marginal workers_Seeking/available for work_Males,41.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Marginal workers_Seeking/available for work_Males,1598.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,996.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,387.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,21.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,28.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,9.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Marginal workers_Seeking/available for work_Males,2849.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Marginal workers_Seeking/available for work_Males,58.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Marginal workers_Seeking/available for work_Males,2791.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Males,1718.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Males,801.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Males,42.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Males,89.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Males,32.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Marginal workers_Seeking/available for work_Females,1434.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Marginal workers_Seeking/available for work_Females,67.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Marginal workers_Seeking/available for work_Females,1367.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,788.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,338.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,71.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Marginal workers_Seeking/available for work_Females,469.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Marginal workers_Seeking/available for work_Females,27.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Marginal workers_Seeking/available for work_Females,442.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,270.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,90.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,16.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,12.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,8.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Marginal workers_Seeking/available for work_Females,965.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Marginal workers_Seeking/available for work_Females,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Marginal workers_Seeking/available for work_Females,925.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,518.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,248.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,24.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,59.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,32.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Marginal workers_Seeking/available for work_Females,1434.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Marginal workers_Seeking/available for work_Females,67.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Marginal workers_Seeking/available for work_Females,1367.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,788.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,338.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,71.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Marginal workers_Seeking/available for work_Females,469.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Marginal workers_Seeking/available for work_Females,27.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Marginal workers_Seeking/available for work_Females,442.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,270.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,90.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,16.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,12.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,8.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Marginal workers_Seeking/available for work_Females,965.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Marginal workers_Seeking/available for work_Females,40.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Marginal workers_Seeking/available for work_Females,925.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Marginal workers_Seeking/available for work_Females,518.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Marginal workers_Seeking/available for work_Females,248.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Marginal workers_Seeking/available for work_Females,24.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Marginal workers_Seeking/available for work_Females,59.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Marginal workers_Seeking/available for work_Females,32.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Non-workers_Total_Persons,44718.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Non-workers_Total_Persons,11139.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Non-workers_Total_Persons,33579.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Non-workers_Total_Persons,23422.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Non-workers_Total_Persons,7494.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,192.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Non-workers_Total_Persons,554.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,192.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Non-workers_Total_Persons,9238.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Non-workers_Total_Persons,2635.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Non-workers_Total_Persons,6603.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Non-workers_Total_Persons,4829.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Non-workers_Total_Persons,1277.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,45.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Non-workers_Total_Persons,51.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,27.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Non-workers_Total_Persons,35480.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Non-workers_Total_Persons,8504.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Non-workers_Total_Persons,26976.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Non-workers_Total_Persons,18593.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Non-workers_Total_Persons,6217.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,147.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Non-workers_Total_Persons,503.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,165.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Non-workers_Total_Persons,44718.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Non-workers_Total_Persons,11139.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Non-workers_Total_Persons,33579.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Non-workers_Total_Persons,23422.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Non-workers_Total_Persons,7494.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,192.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Non-workers_Total_Persons,554.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,192.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Non-workers_Total_Persons,9238.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Non-workers_Total_Persons,2635.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Non-workers_Total_Persons,6603.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Non-workers_Total_Persons,4829.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Non-workers_Total_Persons,1277.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,45.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Non-workers_Total_Persons,51.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,27.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Non-workers_Total_Persons,35480.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Non-workers_Total_Persons,8504.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Non-workers_Total_Persons,26976.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Non-workers_Total_Persons,18593.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Non-workers_Total_Persons,6217.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Persons,147.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Non-workers_Total_Persons,503.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Persons,165.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Non-workers_Total_Males,17441.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Non-workers_Total_Males,4592.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Non-workers_Total_Males,12849.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Non-workers_Total_Males,8619.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Non-workers_Total_Males,3296.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,104.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Non-workers_Total_Males,253.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,100.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Non-workers_Total_Males,3372.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Non-workers_Total_Males,1160.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Non-workers_Total_Males,2212.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Non-workers_Total_Males,1610.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Non-workers_Total_Males,467.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,22.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Non-workers_Total_Males,31.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,9.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Non-workers_Total_Males,14069.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Non-workers_Total_Males,3432.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Non-workers_Total_Males,10637.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Non-workers_Total_Males,7009.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Non-workers_Total_Males,2829.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,82.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Non-workers_Total_Males,222.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,91.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Non-workers_Total_Males,17441.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Non-workers_Total_Males,4592.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Non-workers_Total_Males,12849.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Non-workers_Total_Males,8619.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Non-workers_Total_Males,3296.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,104.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Non-workers_Total_Males,253.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,100.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Non-workers_Total_Males,3372.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Non-workers_Total_Males,1160.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Non-workers_Total_Males,2212.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Non-workers_Total_Males,1610.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Non-workers_Total_Males,467.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,22.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Non-workers_Total_Males,31.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,9.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Non-workers_Total_Males,14069.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Non-workers_Total_Males,3432.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Non-workers_Total_Males,10637.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Non-workers_Total_Males,7009.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Non-workers_Total_Males,2829.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Males,82.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Non-workers_Total_Males,222.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Males,91.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Non-workers_Total_Females,27277.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Non-workers_Total_Females,6547.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Non-workers_Total_Females,20730.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Non-workers_Total_Females,14803.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Non-workers_Total_Females,4198.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,88.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Non-workers_Total_Females,301.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,92.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Non-workers_Total_Females,5866.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Non-workers_Total_Females,1475.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Non-workers_Total_Females,4391.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Non-workers_Total_Females,3219.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Non-workers_Total_Females,810.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,23.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Non-workers_Total_Females,20.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,18.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Non-workers_Total_Females,21411.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Non-workers_Total_Females,5072.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Non-workers_Total_Females,16339.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Non-workers_Total_Females,11584.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Non-workers_Total_Females,3388.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,65.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Non-workers_Total_Females,281.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,74.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Non-workers_Total_Females,27277.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Non-workers_Total_Females,6547.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Non-workers_Total_Females,20730.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Non-workers_Total_Females,14803.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Non-workers_Total_Females,4198.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,88.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Non-workers_Total_Females,301.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,92.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Non-workers_Total_Females,5866.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Non-workers_Total_Females,1475.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Non-workers_Total_Females,4391.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Non-workers_Total_Females,3219.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Non-workers_Total_Females,810.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,23.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Non-workers_Total_Females,20.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,18.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Non-workers_Total_Females,21411.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Non-workers_Total_Females,5072.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Non-workers_Total_Females,16339.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Non-workers_Total_Females,11584.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Non-workers_Total_Females,3388.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Non-workers_Total_Females,65.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Non-workers_Total_Females,281.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Total_Females,74.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Non-workers_Seeking/availabe for work_Persons,12458.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Non-workers_Seeking/availabe for work_Persons,425.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Non-workers_Seeking/availabe for work_Persons,12033.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,6115.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,4694.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,134.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,460.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,157.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Non-workers_Seeking/availabe for work_Persons,2536.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Non-workers_Seeking/availabe for work_Persons,109.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Non-workers_Seeking/availabe for work_Persons,2427.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,1319.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,819.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,31.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,39.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,21.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Non-workers_Seeking/availabe for work_Persons,9922.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Non-workers_Seeking/availabe for work_Persons,316.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Non-workers_Seeking/availabe for work_Persons,9606.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,4796.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,3875.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,103.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,421.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,136.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Non-workers_Seeking/availabe for work_Persons,12458.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Non-workers_Seeking/availabe for work_Persons,425.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Non-workers_Seeking/availabe for work_Persons,12033.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,6115.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,4694.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,134.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,460.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,157.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Non-workers_Seeking/availabe for work_Persons,2536.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Non-workers_Seeking/availabe for work_Persons,109.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Non-workers_Seeking/availabe for work_Persons,2427.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,1319.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,819.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,31.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,39.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,21.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Non-workers_Seeking/availabe for work_Persons,9922.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Non-workers_Seeking/availabe for work_Persons,316.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Non-workers_Seeking/availabe for work_Persons,9606.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Persons,4796.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Persons,3875.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Persons,103.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Persons,421.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Persons,136.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Non-workers_Seeking/availabe for work_Males,5177.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Non-workers_Seeking/availabe for work_Males,132.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Non-workers_Seeking/availabe for work_Males,5045.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,2290.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,2257.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,70.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,200.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,72.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Non-workers_Seeking/availabe for work_Males,742.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Non-workers_Seeking/availabe for work_Males,34.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Non-workers_Seeking/availabe for work_Males,708.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,319.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,311.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,11.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,22.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,5.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Non-workers_Seeking/availabe for work_Males,4435.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Non-workers_Seeking/availabe for work_Males,98.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Non-workers_Seeking/availabe for work_Males,4337.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,1971.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,1946.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,59.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,178.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,67.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Non-workers_Seeking/availabe for work_Males,5177.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Non-workers_Seeking/availabe for work_Males,132.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Non-workers_Seeking/availabe for work_Males,5045.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,2290.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,2257.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,70.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,200.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,72.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Non-workers_Seeking/availabe for work_Males,742.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Non-workers_Seeking/availabe for work_Males,34.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Non-workers_Seeking/availabe for work_Males,708.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,319.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,311.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,11.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,22.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,5.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Non-workers_Seeking/availabe for work_Males,4435.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Non-workers_Seeking/availabe for work_Males,98.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Non-workers_Seeking/availabe for work_Males,4337.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Males,1971.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Males,1946.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Males,59.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Males,178.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Males,67.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Total,Non-workers_Seeking/availabe for work_Females,7281.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Illiterate,Non-workers_Seeking/availabe for work_Females,293.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate,Non-workers_Seeking/availabe for work_Females,6988.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,3825.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,2437.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,64.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,260.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,85.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Total,Non-workers_Seeking/availabe for work_Females,1794.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Illiterate,Non-workers_Seeking/availabe for work_Females,75.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate,Non-workers_Seeking/availabe for work_Females,1719.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,1000.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,508.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,20.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,17.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,16.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Total,Non-workers_Seeking/availabe for work_Females,5487.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Illiterate,Non-workers_Seeking/availabe for work_Females,218.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate,Non-workers_Seeking/availabe for work_Females,5269.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,2825.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,1929.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,44.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,243.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,000,State - LAKSHADWEEP,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,69.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Total,Non-workers_Seeking/availabe for work_Females,7281.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Illiterate,Non-workers_Seeking/availabe for work_Females,293.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate,Non-workers_Seeking/availabe for work_Females,6988.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,3825.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,2437.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,64.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,260.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Total,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,85.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Total,Non-workers_Seeking/availabe for work_Females,1794.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Illiterate,Non-workers_Seeking/availabe for work_Females,75.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate,Non-workers_Seeking/availabe for work_Females,1719.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,1000.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,508.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,20.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,17.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Rural,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,16.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Total,Non-workers_Seeking/availabe for work_Females,5487.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Illiterate,Non-workers_Seeking/availabe for work_Females,218.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate,Non-workers_Seeking/availabe for work_Females,5269.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Literate but below matric/secondary,Non-workers_Seeking/availabe for work_Females,2825.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Matric/secondary but below graduate,Non-workers_Seeking/availabe for work_Females,1929.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical diploma or certificate not equal to degree,Non-workers_Seeking/availabe for work_Females,44.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Graduate and above other than technical degree,Non-workers_Seeking/availabe for work_Females,243.0,DDW-3100B-03ST.xlsx,03ST
+B0303ST,31,587,District - Lakshadweep,Urban,Technical degree or diploma equal to degree or post-graduate degree,Non-workers_Seeking/availabe for work_Females,69.0,DDW-3100B-03ST.xlsx,03ST
